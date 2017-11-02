@@ -14,7 +14,7 @@ This is a temporary script file.
 
 import nltk
 from nltk.tokenize import PunktSentenceTokenizer
-
+from nltk.tag import StanfordNERTagger
 
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet as wn
@@ -24,6 +24,9 @@ import urllib.request
 import requests
 
 ps = PorterStemmer()
+st = StanfordNERTagger('/home/udaycoder/Downloads/stanford-ner-2017-06-09/classifiers/english.all.3class.distsim.crf.ser.gz',
+					   '/home/udaycoder/Downloads/stanford-ner-2017-06-09/stanford-ner.jar',
+					   encoding='utf-8')
 
 def corpusCreator(query_string):
     query_string=list(query_string)
@@ -57,8 +60,10 @@ def csvCreator():
     line=r.readline()
     while(line):
         words = nltk.word_tokenize(line)
-        for w in words:
-            wo=ps.stem(w)
+        classified_text = st.tag(words)
+        for w in classified_text:
+          if w[1]=='O':
+            wo=ps.stem(w[0])
             if wo in ('^'):
                city_title=title.readline()
                new_title=list(city_title)
@@ -103,10 +108,12 @@ def csvCreator():
 
 
 
-with open("cities.txt") as f:
-     for line in f:
-         query_string=line
-         corpusCreator(query_string)
+#==============================================================================
+# with open("cities.txt") as f:
+#      for line in f:
+#          query_string=line
+#          corpusCreator(query_string)
+#==============================================================================
 
 
 csvCreator()
