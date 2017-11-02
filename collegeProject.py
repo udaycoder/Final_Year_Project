@@ -54,9 +54,10 @@ def corpusCreator(query_string):
 def csvCreator():
     r= open("corpus.txt","r")
     title=open("cities.txt","r")
-    dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No'}
+    dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No'}
 
     csvfile = open("csvfile.csv", "a")
+    csvfile.write("City"+','+"Mountain"+','+"Desert"+','+"Waterfall"+','+"Beach"+','+"River"+','+"Workship-place"+','+"Climate"+','+"Zoo"+','+"Park"+','+"Travel"+','+"Archaelogical-site"+','+"Rating\n")
     line=r.readline()
     while(line):
         words = nltk.word_tokenize(line)
@@ -69,8 +70,8 @@ def csvCreator():
                new_title=list(city_title)
                new_title[len(city_title)-1]=''
                new_title=''.join(new_title)
-               csvfile.write(new_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+',\n')
-               dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No'}	   
+               csvfile.write(new_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+','+dict['Climate']+','+dict['Zoo']+','+dict['Park']+','+dict['Travel']+','+dict['Archaeological']+',\n')
+               dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No'}
             if wo in ("Mountain", "mountain"):
    	          dict['Mountain'] = "Yes"
             if wo in ("Desert", "desert"):
@@ -83,6 +84,16 @@ def csvCreator():
             	dict['River'] = "Yes"
             if wo in ("Temple", "Church", "temple", "church"):
             	dict['Workship-place'] = "Yes"
+            if wo in ("Snowfall", "snowfall", "Hilly", "hilly"):
+                dict['Climate'] = "Yes"
+            if wo in ("Zoo", "zoo"):
+                dict['Zoo'] = "Yes"
+            if wo in ("Park", "park", "Garden", "garden"):
+                dict['Park'] = "Yes"
+            if wo in ("Airport", "airport", "Railway", "railway"):
+                dict['Travel'] = "Yes"
+            if wo in ("Archaeological", "archaeological"):
+                dict['Archaeological'] = "Yes"    
         line=r.readline()
            	 
     r.close()
