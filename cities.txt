@@ -1,0 +1,20 @@
+Marrakesh-5.00
+Cape Town-4.83
+Arusha-5.00
+Cairo-4.71
+Lanzarote-4.00
+Mauritius-3.84
+Luxor-5.00
+Canary Islands-4.40
+Johannesburg-3.60
+Nairobi-4.57
+Seychelles-4.17
+Hurghada-5.00
+Casablanca-5.00
+Alexandria-5.00
+Aswan-5.00
+Tangier-5.00
+Mombasa-5.00
+Windhoek-4.00
+Durban-	4.50
+Addis Ababa-3.50
