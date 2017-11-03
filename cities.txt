@@ -18,3 +18,13 @@ Mombasa-5.00
 Windhoek-4.00
 Durban-	4.50
 Addis Ababa-3.50
+Madagascar-3.50
+Zanzibar-4.00
+Accra-4.00
+Port Louis-5.00
+Maputo-4.00
+Tanzania-4.17
+Kampala-4.00
+Malawi-3.00
+Lanzarote-4.00
+Lesotho-3.00
