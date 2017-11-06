@@ -215,3 +215,117 @@ Rotorua-4.00
 Madang-5.00
 Port Moresby-1.00
 Samoa-4.00
+Panaji-4.00
+Benaulim-4.67
+Arambol-4.50
+Anjuna-4.27
+Baga, Goa-4.19
+Miramar, Goa-3.40
+Colva-4.39
+Calangute-4.46
+Dona Paula-4.22
+Margao-4.00
+St. Mary%27s Islands-4.38
+Makalidurga-4.00
+Bylakuppe-3.00
+Dandeli-4.00
+Badami-3.50
+Sigandur-4.86
+Tumkur-3.33
+Belgaum-4.29
+Mysore-4.10
+Hubli-4.00
+Dudhsagar Falls-3.70
+Srirangapatna-3.80
+Dharmasthala-4.33
+Malpe-3.57
+Murdeshwar-4.19
+Karwar, Karnataka-4.38
+Kemmangundi-3.72
+Hampi-4.25
+Gokarna, Karnataka-3.97
+Kodagu district-4.03
+Belur (town)-4.53
+Shravanabelagola-4.71
+Maravanthe-2.00
+Mangalore-4.21
+Dakshina Kannada#South Canara-4.43
+Bijapur-4.06
+Bangalore-3.51
+Shimoga-4.55
+Hyderabad-4.30
+Secunderabad-2.75
+Bhadrachalam-4.43
+Allagadda-4.33
+Tirumala-4.35
+Srikalahasti-4.67
+Gandikota-4.33
+Lepakshi-4.00
+Amaravati-4.00
+Chittoor, Andhra Pradesh-3.20
+Tenali-4.00
+Nellore-4.00
+Tirupati-4.31
+Machilipatnam-4.50
+Bomdila-4.50
+Visakhapatnam-4.33
+Nagalapuram-4.67
+Warangal-4.30
+Kurnool-4.67
+Kadapa-4.50
+Rajahmundry-4.50
+Munnar-4.38
+Kannur-1.50
+Kakkadampoyil-3.50
+Kodanad-3.40
+Kalpetta-4.00
+Thrissur-4.11
+Guruvayur-4.75
+Thenmala-4.25
+Kollam-4.00
+Kumarakom-4.40
+Athirappilly-4.67
+Vagamon-3.75
+Aluva-3.50
+Wayanad district-4.35
+Alappuzha-3.78
+Palakkad-3.86
+Sabarimala-4.25
+Thiruvananthapuram-4.31
+Thekkady-3.95
+Kozhikode-3.33
+Kovalam-4.19
+Kollam-3.67
+Ernakulam-4.33
+Kochi-4.11
+Kottayam-4.50
+Kodaikanal-4.10
+Tirunelveli-3.25
+Karaikudi-3.75
+Valparai-4.00
+Thirumayam-3.50
+Thoothukudi-2.67
+Theni-4.67
+Palani-3.75
+Tiruchirappalli-3.58
+Yercaud-3.89
+Kumbakonam-4.40
+Courtallam-4.20
+Tiruvannamalai-4.67
+Yelagiri-3.46
+Thanjavur-4.55
+Ooty-4.17
+Madurai-4.00
+Kanyakumari-4.30
+Kanchipuram-4.37
+Chennai-3.90
+Coimbatore-4.42
+Coonoor-4.23
+Rameswaram-4.30
+Yercaud-3.86
+Pondicherry-4.06
+Port Blair-4.65
+Havelock Island-4.38
+Agatti Island-4.60
+Lakshadweep-3.58
+Silvassa-3.67
