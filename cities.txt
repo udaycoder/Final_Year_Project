@@ -199,3 +199,19 @@ Sasaram-3.75
 Bodh Gaya-4.00
 Rajgir-4.26
 Patna-3.15
+Sydney-4.82
+Auckland-3.60
+Brisbane-4.40
+Cairns-5.00
+Perth-4.50
+Gold Coast, Queensland-4.80
+Queenstown, New Zealand-3.50
+Fiji-4.00
+Byron Bay, New South Wales-4.50
+Melbourne-4.67
+Canberra-5.00
+Tahiti-4.00
+Rotorua-4.00
+Madang-5.00
+Port Moresby-1.00
+Samoa-4.00
