@@ -28,3 +28,174 @@ Kampala-4.00
 Malawi-3.00
 Lanzarote-4.00
 Lesotho-3.00
+Toronto-4.71
+Montreal-4.60
+Calgary-4.67
+Ottawa-4.8
+Vancouver-4
+Mexico City-4.5
+Acapulco-4
+New York City-4.63
+Los Angeles-3.86
+Chicago-4.75
+San Francisco-4.25
+Seattle-4.33
+Detroit-4.00
+Washington, D.C.-4.57
+Oklahoma City-4.50
+Las Vegas-4.72
+Buenos Aires-4.00
+Rio de Janerio-4.50
+Sau Paulo-4.00
+Campos do jordao-4.00
+Santiago-4.00
+Valencia-4.50
+Ladakh-4.53
+Patnitop-4.21
+Gulmarg-4.55
+Srinagar-4.43
+Leh-4.44
+Kashmir-4.28
+Jammu-4.39
+Zanskar-4.5
+Udhampur-4.6
+Anantnag-4.5
+Poonch-4.00
+Sonamarg-3.57
+Baramulla-4.00
+Katra, Jammu and Kashmir-3.44
+Pahelgam-4.88
+Palampur-3.86
+Dalhousie, India-4.09
+Shimla-4.10
+Manali, Himachal Pradesh-4.35
+Kasol-4.41
+Dharamsala-4.19
+Chail, Himachal Pradesh-4.05
+Kufri, India-3.14
+Una, Himachal Pradesh-3.25
+Bharmour-3.50
+Khajjiar-4.00
+Chamba, Himachal Pradesh-4.22
+Sarahan-4.00
+Parwanoo-4.00
+Mashobra-4.00
+Kalpa, Himachal Pradesh-4.50
+Dharamkot, Himachal Pradesh-3.00
+Kullu-4.45
+Narkanda-4.33
+Solan-3.86
+McLeod Ganj-4.16
+Kasauli-3.75
+Nainital-4.36
+Mussoorie-4.25
+Dehradun-4.41
+Ranikhet-4.19
+Almora-4.36
+Auli-3.95
+Badrinath-4.27
+Lansdowne, India-3.91
+Rishikesh-4.28
+Mukteshwar-4.67
+Haridwar-4.23
+Munsiari-3.50
+Kausani-4.40
+Kotdwar-3.00
+Haldwani-3.09
+Shivpuri-4.50
+Chopta-4.50
+Kanatal-4.00
+Munsiari-3.75
+Pithoragarh-4.00
+Kedarnath-4.33
+Rudrapur-3.00
+Chamoli district-3.50
+Kashipur, Uttarakhand-3.00
+Devprayag-4.50
+Champawat-3.50
+Jageshwar-4.50
+Dhanaulti-3.80
+Kila Raipur-4.50
+Pathankot-4.50
+Gurudaspur-3.00
+Barnala-3.75
+Hoshiarpur-2.17
+Ludhiana-3.17
+Jalandhar-4.33
+Patiala-4.83
+Chandigarh-4.53
+Amritsar-4.53
+Karnal-4.5
+Fatehabad, Haryana-2.00
+Bilaspur, Chhattisgarh-3.00
+Kangra, Himachal Pradesh-4.13
+Lahaul and Spiti district-4.80
+Manesar-4.00
+Rohtak-4.29
+Kurukshetra-3.87
+Narnaul-2.33
+Hisar (city)-4.00
+Faridabad-3.71
+Gurgaon-3.14
+Jaipur-4.36
+Jhalawar-4.00
+Bhawani Mandi-4.50
+Ramdevra-4.50
+Banswara-4.75
+Hanumangarh-4.00
+Pali-3.25
+Bundi-3.67
+Jhunjhunu-4.33
+Dausa-3.00
+Bhilwara-4.00
+Sawai Madhopur-3.00
+Sirohi-4.00
+Barmer, Rajasthan-4.33
+Bharatpur, Rajasthan-2.75
+Mount Abu-3.83
+Alwar-3.36
+Bhangarh-3.07
+Pushkar-4.16
+Ranakpur-4.63
+Nathdwara-4.43
+Udaipur-4.51
+Chittorgarh-4.26
+Kota, Rajasthan-3.75
+Jodhpur-4.34
+Jaisalmer-4.16
+Ajmer-4.17
+Bikaner-4.20
+Varanasi-4.31
+Meerut-2.00
+Budaun-1.25
+Moradabad-2.25
+Amroha-1.13
+Gajraula-2.83
+Ayodhya-3.75
+Ghaziabad, Uttar Pradesh-2.11
+Kumaon division-1.50
+Vrindavan-3.89
+Kanpur-3.33
+Chaukori-4.00
+Bareilly-3.67
+Noida-2.38
+Fatehpur Sikri-3.33
+Allahabad-4.34
+Lucknow-4.11
+Garhwal-4.43
+Sarnath-4.50
+Mathura-4.07
+Old Delhi-4.38
+Agra-4.07
+Purnia-2.80
+Madhubani district-3.33
+Munger-4
+Muzaffarnagar-2.40
+Pawapuri-4.00
+Sitamarhi-4.50
+Bhagalpur-3.70
+Vaishali (ancient city)-4.00
+Sasaram-3.75
+Bodh Gaya-4.00
+Rajgir-4.26
+Patna-3.15
