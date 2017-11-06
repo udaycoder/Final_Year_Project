@@ -356,3 +356,45 @@ Imphal-4.00
 Aizawl-4.00
 Unakoti-4.00
 Agartala-4.33
+Murshidabad-4.50
+Bagdogra-1.00
+Digha-3.46
+Gadiara-4.67
+Mukutmanipur-3.00
+Sundarbans-4.00
+Haldia-1.60
+Raiganj-3.50
+Asansol-3.57
+Purulia-3.80
+Howrah-3.30
+Baharampur-4.00
+Durgapur-4.00
+Krishnanagar, Nadia-4.00
+Bakkhali-3.06
+Mandarmani-3.25
+Darjeeling-4.26
+Kolkata-4.17
+Kalimpong-3.88
+Rourkela-4.00]
+Gopalpur, Odisha-3.50
+Kendujhar-4.33
+Phulbani-3.20
+Sambalpur-4.00
+Jeypore-4.50
+Koraput-2.33
+Cuttack-3.50
+Bhubaneswar-4.24
+Puri-4.30
+Angul-4.67
+Ghatshila-3.33
+Maluti-3.00
+Netarhat-2.67
+Dumka-2.00
+Jamshedpur-4.00
+Medininagar-3.00
+Dhanbad-4.00
+Hazaribagh-3.20
+Latehar-3.00
+Ranchi-4.15
+Bastar district-3.60
+Balrampur-5.00
