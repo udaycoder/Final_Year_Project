@@ -489,3 +489,61 @@ Dahanu-4.14
 Bassein-4.50
 Alibag-3.85
 Mumbai-4.21
+Dhaka-4.33
+Chittagong-3.50
+Zhejiang-3.50
+Yunnan-4
+Macau-4.20
+Guilin-4
+Shanghai-4.29
+Beijing-4.32
+Hong kong-4.11
+Bali-4.26
+Java-4.5
+Jakarta-4.2
+Hiroshima-4
+Tokyo-4.57
+Almaty-3
+Pulau Ketam-4.33
+Putrajaya-3.5
+Penang-4
+Kuala Lumpur-4.45
+Langkawi-4.43
+Miri, Malaysia-4
+Kuala Kangsar District-4.5
+Tioman island - 4.75
+Kuantan-4
+Shah Alam-4
+Johor Bahru-4
+Batu Gajah-4
+Port Dickson-3.50
+Male-4.5
+Pokhara-4.69
+Lalitpur, Nepal-3.5
+Kathmandu-4.25
+Bhaktapur-4
+Rawalpindi-4
+Quetta-4.8
+Peshawar-4.25
+Lahore-4.62
+Karachi-4.11
+Islamabad-4.74
+Gilgit-4.74
+Manila-4.33
+Boracay-4.33
+Singapore-4.26
+Sentosa-4.69
+Seoul-4.13
+Bentota-3
+Kandy-4.67
+Colombo-4.13
+Taichung-4
+Taipei-4
+Koh Samui-4
+Chiang Mai-4.8
+Phuket-4.33
+Phuket Province-4.33
+Pattaya-4.25
+Bangkok-4.29
+Ho Chi Minh City-3
+Hanoi-4.67
