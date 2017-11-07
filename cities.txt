@@ -398,3 +398,94 @@ Latehar-3.00
 Ranchi-4.15
 Bastar district-3.60
 Balrampur-5.00
+Jamnagar-2.67
+Vadodara-3.89
+Dang District, India-4.00
+Gandhinagar-4.38
+Mandvi-4.33
+Bhuj-4.45
+Bhavnagar-3.83
+Veraval-4.00
+Rajkot-4.25
+Kutch district-4.80
+Dwarka-3.87
+Palitana-4.86
+Udwada-4.00
+Saurashtra (region)-4.63
+Gondal, India-4.33
+Diu, India-4.09
+Junagadh-4.67
+Porbander-4.10
+Surat-3.83
+Baroda-4.42
+Ahmedabad-4.43
+Daman-3.05
+Tikamgarh-2.00
+Dewas-4.50
+Multai-4.00
+Bhedaghat-3.75
+Singrauli-3.33
+Jhansi-4.25
+Ratlam-3.70
+Orchha-4.60
+Amarkantak-4.56
+Chitrakoot, Madhya Pradesh-4.00
+Sanchi-4.50
+Datia-4.00
+Panchmarhi-3.83
+Maheshwar-3.33
+Mandu, Madhya Pradesh-3.80
+Bhopal-4.37
+Jabalpur-3.50
+Indore-4.62
+Pachmarhi-4.40
+Gwalior-4.10
+Ujjain-4.29
+Ganpatipule-4.32
+Saputara-3.68
+Tuljapur-4.63
+Ahmednagar-4.22
+Sevagram-3.00
+Palghar-1.50
+Kaas Plateau-4.25
+Kalyan-3.50
+Sawantwadi-4.67
+Ratnagiri-4.25
+Dudhani-3.00
+Shrivardhan-4.50
+Wai, Maharashtra-4.80
+Solapur-3.33
+Khed, Ratnagiri-4.00
+Amravati-4.67
+Malvan-4.50
+Kolad-4.00
+Bhivpuri-3.57
+Nashik-4.12
+Shani Shingnapur-2.22
+Magarpatta-3.50
+Lavasa-3.09
+Amboli, Sindhudurg-4.17
+Aamby Valley City-2.95
+Diveagar-4.05
+Kamshet-3.83
+Aurangabad, Maharashtra-4.32
+Tarkarli-4.11
+Tuljapur-4.63
+Satara (city)-4.73
+Pandharpur-3.71
+Ganpatipule-4.32
+Bhandardhara-4.33
+olhapur-4.25
+Saputara-3.68
+Navi Mumbai-4.23
+Panchgani-3.89
+Shirdi-4.49
+Nagpur-4.15
+Mahabaleshwar-4.19
+Khandala-4.28
+Lonavla-4.24
+Kihim-3.89
+Dahanu-4.14
+Bassein-4.50
+Alibag-3.85
+Mumbai-4.21
