@@ -35,20 +35,24 @@ def corpusCreator(query_string):
             query_string[i]='_'
     query_string=''.join(query_string)      
     print(query_string)
-
-    html = urllib.request.urlopen("https://en.wikipedia.org/wiki/"+query_string).read()
-
-    soup = BeautifulSoup(html, 'html.parser')
-    soup = soup.find_all(["p"])
-
     fo = open("corpus.txt", "a")
+    try:
+        html = urllib.request.urlopen("https://en.wikipedia.org/wiki/"+query_string).read()
+
+        soup = BeautifulSoup(html, 'html.parser')
+        soup = soup.find_all(["p"])
+
+        
     
-    for i in soup:
-        fo.write(i.get_text()+'\n')
+        for i in soup:
+            fo.write(i.get_text()+'\n')
     
-    fo.write('\n')
-    fo.write('^')
-    fo.write('\n')
+        fo.write('\n')
+        fo.write('^')
+        fo.write('\n')
+        print(query_string+" completed")
+    except:
+        print("EXCEPTION THROWN FOR - "+query_string+" !!!!!!")
     fo.close()
     
 def csvCreator():
@@ -129,7 +133,7 @@ with open("cities.txt") as f:
 
 
 
-csvCreator()
+#csvCreator()
 #==============================================================================
 # API_KEY = "AIzaSyAfNwA6QqnL8wJZb_quAgXf11FxxUQLTzw"
 # urldetails = "https://maps.googleapis.com/maps/api/place/details/json?"
