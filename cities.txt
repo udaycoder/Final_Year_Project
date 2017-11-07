@@ -547,3 +547,110 @@ Pattaya-4.25
 Bangkok-4.29
 Ho Chi Minh City-3
 Hanoi-4.67
+Andorra-5.00
+Vienna-3.88
+Salzburg-4.86
+Innsbruck-4.50
+Austria-4.50
+Ypres-4.67
+Brugge-5.00
+Antwerp-3.75
+Belgium-4.38
+Sofia-4.50
+Bulgaria-3.00
+Lanzarote-4.00
+Canary Islands-4.40
+Croatia-5.00
+Limassol-5.00
+Ayia Napa-4.00
+Cyprus-4.40
+Prague-4.43
+Copenhagen-4.50
+Denmark-4.00
+Helsinki-5.00
+Finland-4.14
+Cannes-4.75
+Paris-4.57
+France-4.32
+Heidelberg-4.00
+Zugspitze-4.00
+Stuttgart-2.20
+Munich-4.67
+Frankfurt-3.43
+Dresden-4.50
+Cologne-4.00
+Berlin-4.63
+Germany-4.38
+Athens-5.00
+Greece-4.75
+Hungary-4.67
+Ireland-4.80
+Piedmont-4.50
+Verona-4.50
+Torino-4.00
+Siena-5.00
+Sorrento-5.00
+Pompeii-4.50
+Mont Blanc-4.50
+Venice-4.52
+Rome-4.84
+Milan-4.40
+Florence-4.67
+Italy-4.15
+Liechtenstein-3.50
+Luxembourg-4.00
+Valletta-5.00
+Gozo-5.00
+Malta-4.50
+Monte Carlo-4.00
+Keukenhof-4.75
+Rotterdam-4.00
+The Hague-5.00
+Amsterdam-4.39
+Netherlands-4.50
+Norway-3.00
+Warsaw-4.33
+Krakow-5.00
+Poland-4.33
+Portugal-4.50
+Bucharest-4.50
+St. Petersburg-5.00
+Moscow-5.00
+Russia-3.75
+Slovakia-4.50
+Slovenia-3.75
+Sevilla-4.50
+Mallorca-4.50
+Madrid-4.40
+Ibiza-4.40
+Barcelona-4.10
+Spain-4.70
+Stockholm-4.00
+Lucerne-4.75
+Zurich-4.43
+Geneva-4.50
+Switzerland-4.81
+Leeds-5.00
+Newcastle Upon Tyne-4.00
+Wells-5.00
+Nottinghamshire-3.50
+Orkney Islands-5.00
+St. Andrew-4.50
+Scotland-4.59
+Wales-4.67
+Filey-4.50
+The Isle of Wight-4.33
+Scottish Highlands-4.67
+Dorset-5.00
+Bradford-4.00
+Lincoln-5.00
+Cardiff-4.00
+Glasgow-4.50
+Edinburg-4.80
+Plymouth-3.75
+Cambridge-4.50
+Liverpool-5.00
+Oxford-4.00
+York-5.00
+Manchester-4.33
+London-4.40
