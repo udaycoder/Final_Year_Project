@@ -24,8 +24,8 @@ import urllib.request
 import requests
 
 ps = PorterStemmer()
-st = StanfordNERTagger('/home/udaycoder/Downloads/stanford-ner-2017-06-09/classifiers/english.all.3class.distsim.crf.ser.gz',
-					   '/home/udaycoder/Downloads/stanford-ner-2017-06-09/stanford-ner.jar',
+st = StanfordNERTagger('stanford-ner-2017-06-09/classifiers/english.all.3class.distsim.crf.ser.gz',
+					   'stanford-ner-2017-06-09/stanford-ner.jar',
 					   encoding='utf-8')
 
 def corpusCreator(query_string):
