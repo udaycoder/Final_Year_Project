@@ -66,11 +66,13 @@ def csvCreator():
           if w[1]=='O':
             wo=ps.stem(w[0])
             if wo in ('^'):
-               city_title=title.readline()
+               city_title_full=title.readline()
+               city_title=city_title_full.split('-')[0]
                new_title=list(city_title)
                new_title[len(city_title)-1]=''
                new_title=''.join(new_title)
-               csvfile.write(new_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+','+dict['Climate']+','+dict['Zoo']+','+dict['Park']+','+dict['Travel']+','+dict['Archaeological']+',\n')
+               rating=city_title_full.split('-')[1]
+               csvfile.write(new_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+','+dict['Climate']+','+dict['Zoo']+','+dict['Park']+','+dict['Travel']+','+dict['Archaeological']+','+rating)
                dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No'}
             if wo in ("Mountain", "mountain"):
    	          dict['Mountain'] = "Yes"
@@ -119,12 +121,12 @@ def csvCreator():
 
 
 
-#==============================================================================
-# with open("cities.txt") as f:
-#      for line in f:
-#          query_string=line
-#          corpusCreator(query_string)
-#==============================================================================
+
+with open("cities.txt") as f:
+      for line in f:
+         query_string=line.split('-')[0]
+         corpusCreator(query_string)
+
 
 
 csvCreator()
