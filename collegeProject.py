@@ -77,27 +77,27 @@ def csvCreator():
                    rating=city_title_full[1]
                csvfile.write(city_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+','+dict['Climate']+','+dict['Zoo']+','+dict['Park']+','+dict['Travel']+','+dict['Archaeological']+','+rating)
                dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No'}
-            if wo in ("Mountain", "mountain"):
+            if wo in (ps.stem("Mountain"), ps.stem("mountain")):
    	          dict['Mountain'] = "Yes"
-            if wo in ("Desert", "desert"):
+            if wo in (ps.stem("Desert"), ps.stem("desert")):
             	dict['Desert'] = "Yes"
-            if wo in ("Waterfall", "waterfall"):
+            if wo in (ps.stem("Waterfall"), ps.stem("waterfall")):
             	dict['Waterfall'] = "Yes"
-            if wo in ("Beach", "beach", "beaches", "Beaches"):
+            if wo in (ps.stem("Beach"), ps.stem("beach"), ps.stem("beaches"), ps.stem("Beaches")):
             	dict['Beach'] = "Yes"
-            if wo in ("River", "river"):
+            if wo in (ps.stem("River"), ps.stem("river")):
             	dict['River'] = "Yes"
-            if wo in ("Temple", "Church", "temple", "church"):
+            if wo in (ps.stem("Temple"), ps.stem("Church"), ps.stem("temple"), ps.stem("church")):
             	dict['Workship-place'] = "Yes"
-            if wo in ("Snowfall", "snowfall", "Hilly", "hilly"):
+            if wo in (ps.stem("Snowfall"), ps.stem("snowfall"), ps.stem("Hilly"), ps.stem("hilly")):
                 dict['Climate'] = "Yes"
-            if wo in ("Zoo", "zoo"):
+            if wo in (ps.stem("Zoo"), ps.stem("zoo")):
                 dict['Zoo'] = "Yes"
-            if wo in ("Park", "park", "Garden", "garden"):
+            if wo in (ps.stem("Park"), ps.stem("park"), ps.stem("Garden"), ps.stem("garden")):
                 dict['Park'] = "Yes"
-            if wo in ("Airport", "airport", "Railway", "railway"):
+            if wo in (ps.stem("Airport"), ps.stem("airport"), ps.stem("Railway"), ps.stem("railway")):
                 dict['Travel'] = "Yes"
-            if wo in ("Archaeological", "archaeological"):
+            if wo in (ps.stem("Archaeological"), ps.stem("archaeological")):
                 dict['Archaeological'] = "Yes"    
         line=r.readline()
            	 
