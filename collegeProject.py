@@ -67,16 +67,15 @@ def csvCreator():
         words = nltk.word_tokenize(line)
         classified_text = st.tag(words)
         for w in classified_text:
-          if w[1]=='O':
+          if w[1]=='O' and (w[0]!=''):
             wo=ps.stem(w[0])
             if wo in ('^'):
                city_title_full=title.readline()
-               city_title=city_title_full.split('-')[0]
-               new_title=list(city_title)
-               new_title[len(city_title)-1]=''
-               new_title=''.join(new_title)
-               rating=city_title_full.split('-')[1]
-               csvfile.write(new_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+','+dict['Climate']+','+dict['Zoo']+','+dict['Park']+','+dict['Travel']+','+dict['Archaeological']+','+rating)
+               city_title_full=city_title_full.split('-') 
+               if len(city_title_full)==2:
+                   city_title=city_title_full[0]
+                   rating=city_title_full[1]
+               csvfile.write(city_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+','+dict['Climate']+','+dict['Zoo']+','+dict['Park']+','+dict['Travel']+','+dict['Archaeological']+','+rating)
                dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No'}
             if wo in ("Mountain", "mountain"):
    	          dict['Mountain'] = "Yes"
