@@ -15,12 +15,11 @@ This is a temporary script file.
 import nltk
 from nltk.tokenize import PunktSentenceTokenizer
 from nltk.tag import StanfordNERTagger
-
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet as wn
 from nltk.stem import PorterStemmer
-from bs4 import BeautifulSoup
 import urllib.request
+from bs4 import BeautifulSoup
 import requests
 
 ps = PorterStemmer()
@@ -58,10 +57,10 @@ def corpusCreator(query_string):
 def csvCreator():
     r= open("corpus.txt","r")
     title=open("cities.txt","r")
-    dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No'}
+    dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No','Festival': 'No','Pollution': 'No','Tourist': 'No','Cuisine': 'No','Safety': 'Yes','Museum': 'No','Stadium': 'No','Market': 'No','Concert': 'No'}
 
     csvfile = open("csvfile.csv", "a")
-    csvfile.write("City"+','+"Mountain"+','+"Desert"+','+"Waterfall"+','+"Beach"+','+"River"+','+"Workship-place"+','+"Climate"+','+"Zoo"+','+"Park"+','+"Travel"+','+"Archaelogical-site"+','+"Rating\n")
+    csvfile.write("City"+','+"Mountain"+','+"Desert"+','+"Waterfall"+','+"Beach"+','+"River"+','+"Workship-place"+','+"Climate"+','+"Zoo"+','+"Park"+','+"Travel"+','+"Archaelogical-site"+','+"Festival"+','+"Pollution"+','+"Tourist"+','+"Cuisine"+','+"Safety"+','+"Museum"+','+"Stadium"+','+"Market"+','+"Concert"+','+"Rating\n")
     line=r.readline()
     while(line):
         words = nltk.word_tokenize(line)
@@ -75,20 +74,20 @@ def csvCreator():
                if len(city_title_full)==2:
                    city_title=city_title_full[0]
                    rating=city_title_full[1]
-               csvfile.write(city_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+','+dict['Climate']+','+dict['Zoo']+','+dict['Park']+','+dict['Travel']+','+dict['Archaeological']+','+rating)
-               dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No'}
+               csvfile.write(city_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+','+dict['Climate']+','+dict['Zoo']+','+dict['Park']+','+dict['Travel']+','+dict['Archaeological']+','+dict['Festival']+','+dict['Pollution']+','+dict['Tourist']+','+dict['Cuisine']+','+dict['Safety']+','+dict['Museum']+','+dict['Stadium']+','+dict['Market']+','+dict['Concert']+','+rating)
+               dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No','Festival': 'No','Pollution': 'No','Tourist': 'No','Cuisine': 'No','Safety': 'Yes','Museum': 'No','Stadium': 'No','Market': 'No','Concert': 'No'}
             if wo in (ps.stem("Mountain"), ps.stem("mountain")):
-   	          dict['Mountain'] = "Yes"
+   	           dict['Mountain'] = "Yes"
             if wo in (ps.stem("Desert"), ps.stem("desert")):
-            	dict['Desert'] = "Yes"
+               dict['Desert'] = "Yes"
             if wo in (ps.stem("Waterfall"), ps.stem("waterfall")):
-            	dict['Waterfall'] = "Yes"
+            	   dict['Waterfall'] = "Yes"
             if wo in (ps.stem("Beach"), ps.stem("beach"), ps.stem("beaches"), ps.stem("Beaches")):
-            	dict['Beach'] = "Yes"
-            if wo in (ps.stem("River"), ps.stem("river")):
-            	dict['River'] = "Yes"
-            if wo in (ps.stem("Temple"), ps.stem("Church"), ps.stem("temple"), ps.stem("church")):
-            	dict['Workship-place'] = "Yes"
+               dict['Beach'] = "Yes"
+            if wo in (ps.stem("River"), ps.stem("river"),ps.stem("Lake"),ps.stem("lake")):
+            	   dict['River'] = "Yes"
+            if wo in (ps.stem("Temple"), ps.stem("Church"), ps.stem("temple"), ps.stem("church"),ps.stem("Chapel"),ps.stem("chapel"),ps.stem("Mosque"),ps.stem("mosque")):
+            	   dict['Workship-place'] = "Yes"
             if wo in (ps.stem("Snowfall"), ps.stem("snowfall"), ps.stem("Hilly"), ps.stem("hilly")):
                 dict['Climate'] = "Yes"
             if wo in (ps.stem("Zoo"), ps.stem("zoo")):
@@ -98,7 +97,25 @@ def csvCreator():
             if wo in (ps.stem("Airport"), ps.stem("airport"), ps.stem("Railway"), ps.stem("railway")):
                 dict['Travel'] = "Yes"
             if wo in (ps.stem("Archaeological"), ps.stem("archaeological")):
-                dict['Archaeological'] = "Yes"    
+                dict['Archaeological'] = "Yes"
+            if wo in (ps.stem("Festival"), ps.stem("festival"), ps.stem("Carnival"), ps.stem("carnival"), ps.stem("Pilgrim"), ps.stem("pilgrim")):
+                dict['Festival'] = "Yes"
+            if wo in (ps.stem("Pollution"), ps.stem("pollution")):
+                dict['Pollution'] = "Yes"
+            if wo in (ps.stem("Tourist"), ps.stem("tourist")):
+                dict['Tourist'] = "Yes"
+            if wo in (ps.stem("Cuisine"), ps.stem("cuisine"), ps.stem("Food"), ps.stem("food")):
+                dict['Cuisine'] = "Yes"
+            if wo in (ps.stem("Terrorism"), ps.stem("terrorism"), ps.stem("Killing"), ps.stem("killing")):
+                dict['Safety'] = "No"
+            if wo in (ps.stem("Museum"), ps.stem("museum")):
+                dict['Museum'] = "Yes" 
+            if wo in (ps.stem("Stadium"), ps.stem("stadium")):
+                dict['Stadium'] = "Yes"
+            if wo in (ps.stem("Shopping"), ps.stem("shopping"), ps.stem("Market"), ps.stem("market")):
+                dict['Market'] = "Yes"
+            if wo in (ps.stem("Dance"), ps.stem("dance"), ps.stem("Music"), ps.stem("music"), ps.stem("Concert"), ps.stem("concert")):
+                dict['Concert'] = "Yes"    
         line=r.readline()
            	 
     r.close()
