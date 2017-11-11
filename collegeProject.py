@@ -73,6 +73,11 @@ def csvCreator():
                city_title_full=city_title_full.split('-') 
                if len(city_title_full)==2:
                    city_title=city_title_full[0]
+                   city_title=list(city_title)
+                   for i in range(0,len(city_title)):
+                      if(city_title[i]==','):
+                           city_title[i]=' '
+                   city_title=''.join(city_title)
                    rating=city_title_full[1]
                csvfile.write(city_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+','+dict['Climate']+','+dict['Zoo']+','+dict['Park']+','+dict['Travel']+','+dict['Archaeological']+','+dict['Festival']+','+dict['Pollution']+','+dict['Tourist']+','+dict['Cuisine']+','+dict['Safety']+','+dict['Museum']+','+dict['Stadium']+','+dict['Market']+','+dict['Concert']+','+rating)
                dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No','Festival': 'No','Pollution': 'No','Tourist': 'No','Cuisine': 'No','Safety': 'Yes','Museum': 'No','Stadium': 'No','Market': 'No','Concert': 'No'}
@@ -142,14 +147,16 @@ def csvCreator():
 
 
 
-with open("cities.txt") as f:
-      for line in f:
-         query_string=line.split('-')[0]
-         corpusCreator(query_string)
+#==============================================================================
+# with open("cities.txt") as f:
+#       for line in f:
+#          query_string=line.split('-')[0]
+#          corpusCreator(query_string)
+#==============================================================================
 
 
 
-#csvCreator()
+csvCreator()
 #==============================================================================
 # API_KEY = "AIzaSyAfNwA6QqnL8wJZb_quAgXf11FxxUQLTzw"
 # urldetails = "https://maps.googleapis.com/maps/api/place/details/json?"
