@@ -1,0 +1,591 @@
+City,Mountain,Desert,Waterfall,Beach,River,Workship-place,Climate,Zoo,Park,Travel,Archaelogical-site,Festival,Pollution,Tourist,Cuisine,Safety,Museum,Stadium,Market,Concert,Rating
+Cape Town,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.83
+Cairo,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4.71
+Lanzarote,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,4.00
+Mauritius,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,3.84
+Canary Islands,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,4.40
+Johannesburg,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,3.60
+Nairobi,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.57
+Seychelles,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,4.17
+Windhoek,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.00
+Durban,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,4.50
+Addis Ababa,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,3.50
+Madagascar,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,3.50
+Zanzibar,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,4.00
+Accra,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.00
+Maputo,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4.00
+Tanzania,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,4.17
+Kampala,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,4.00
+Malawi,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,3.00
+Lanzarote,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,4.00
+Lesotho,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,3.00
+Toronto,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.71
+Montreal,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.60
+Calgary,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.67
+Ottawa,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.8
+Vancouver,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4
+Mexico City,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.5
+Acapulco,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4
+New York City,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.63
+Los Angeles,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3.86
+Chicago,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.75
+San Francisco,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,4.25
+Seattle,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,4.33
+Detroit,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.00
+Washington  D.C.,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,4.57
+Oklahoma City,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,4.50
+Las Vegas,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.72
+Buenos Aires,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.00
+Rio de Janerio,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.50
+Santiago,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,4.00
+Valencia  Carabobo,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,4.50
+Ladakh,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,4.53
+Patnitop,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.21
+Gulmarg,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,4.55
+Srinagar,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,4.43
+Leh,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,4.44
+Kashmir,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,4.28
+Jammu,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,4.39
+Zanskar,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,4.5
+Udhampur,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.6
+Anantnag,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,4.5
+Poonch,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Sonamarg,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.57
+Baramulla,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,4.00
+Katra  Jammu and Kashmir,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,3.44
+Pahalgam,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.88
+Palampur,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,3.86
+Dalhousie  India,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.09
+Shimla,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,4.10
+Manali  Himachal Pradesh,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,4.35
+Kasol,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.41
+Dharamsala,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,4.19
+Chail  Himachal Pradesh,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.05
+Kufri  India,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,3.14
+Una  Himachal Pradesh,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.25
+Bharmour,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,3.50
+Khajjiar,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.00
+Chamba  Himachal Pradesh,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,4.22
+Sarahan,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,4.00
+Parwanoo,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,4.00
+Mashobra,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.00
+Kalpa  Himachal Pradesh,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,4.50
+Dharamkot  Himachal Pradesh,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,3.00
+Kullu,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,4.45
+Narkanda,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.33
+Solan,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,3.86
+McLeod Ganj,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,4.16
+Kasauli,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,3.75
+Nainital,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,4.36
+Mussoorie,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.25
+Dehradun,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,4.41
+Ranikhet,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,4.19
+Almora,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.36
+Auli,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,3.95
+Badrinath,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,4.27
+Lansdowne  India,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,3.91
+Rishikesh,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,4.28
+Mukteshwar,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,4.67
+Haridwar,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.23
+Munsiari,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.50
+Kausani,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,4.40
+Kotdwar,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,3.00
+Haldwani,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,3.09
+Shivpuri,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.50
+Chopta,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.50
+Kanatal,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.00
+Munsiari,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.75
+Pithoragarh,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,4.00
+Kedarnath,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,4.33
+Rudrapur,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.00
+Chamoli district,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,3.50
+Kashipur  Uttarakhand,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.00
+Devprayag,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,4.50
+Champawat,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,3.50
+Jageshwar,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,4.50
+Dhanaulti,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.80
+Kila Raipur,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,4.50
+Pathankot,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,4.50
+Gurdaspur,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.00
+Barnala,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,3.75
+Hoshiarpur,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,2.17
+Ludhiana,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,3.17
+Jalandhar,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,4.33
+Patiala,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.83
+Chandigarh,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,4.53
+Amritsar,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,4.53
+Karnal,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.5
+Fatehabad  Haryana,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,2.00
+Bilaspur  Chhattisgarh,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,3.00
+Kangra  Himachal Pradesh,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,4.13
+Lahaul and Spiti district,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,4.80
+Manesar,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,4.00
+Rohtak,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,4.29
+Kurukshetra,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,3.87
+Narnaul,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,2.33
+Hisar (city),No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,4.00
+Faridabad,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,3.71
+Gurgaon,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,3.14
+Jaipur,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.36
+Jhalawar,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Bhawani Mandi,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,4.50
+Ramdevra,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.50
+Banswara,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,4.75
+Hanumangarh,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,4.00
+Pali,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.25
+Bundi,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,3.67
+Jhunjhunu,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.33
+Dausa,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,3.00
+Bhilwara,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Sawai Madhopur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,3.00
+Sirohi,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Barmer  Rajasthan,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,4.33
+Bharatpur  Rajasthan,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,2.75
+Mount Abu,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.83
+Alwar,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,No,3.36
+Bhangarh,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,3.07
+Pushkar,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,4.16
+Ranakpur,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.63
+Nathdwara,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,4.43
+Udaipur,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.51
+Chittorgarh,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,4.26
+Kota  Rajasthan,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,No,3.75
+Jodhpur,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.34
+Jaisalmer,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,4.16
+Ajmer,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.17
+Bikaner,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,4.20
+Varanasi,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,4.31
+Meerut,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,2.00
+Budaun,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,1.25
+Moradabad,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,2.25
+Amroha,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,1.13
+Gajraula,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,2.83
+Ayodhya,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,3.75
+Ghaziabad  Uttar Pradesh,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,2.11
+Kumaon division,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,1.50
+Vrindavan,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.89
+Kanpur,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,3.33
+Chaukori,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.00
+Bareilly,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,3.67
+Noida,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,2.38
+Fatehpur Sikri,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,3.33
+Allahabad,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.34
+Lucknow,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.11
+Garhwal,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.43
+Sarnath,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,4.50
+Mathura,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,4.07
+Old Delhi,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,4.38
+Agra,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,4.07
+Purnia,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,2.80
+Madhubani district,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,3.33
+Munger,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4
+Muzaffarnagar,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,2.40
+Pawapuri,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.00
+Sitamarhi,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.50
+Bhagalpur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,3.70
+Vaishali (ancient city),No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,4.00
+Sasaram,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,3.75
+Bodh Gaya,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,4.00
+Rajgir,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,4.26
+Patna,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,3.15
+Sydney,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.82
+Auckland,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,3.60
+Brisbane,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.40
+Perth,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.50
+Gold Coast  Queensland,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,4.80
+Queenstown  New Zealand,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.50
+Fiji,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,4.00
+Byron Bay  New South Wales,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,4.50
+Melbourne,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.67
+Tahiti,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.00
+Rotorua,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,4.00
+Port Moresby,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,1.00
+Samoa,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,4.00
+Panaji,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,4.00
+Benaulim,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,4.67
+Arambol,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,4.50
+Anjuna,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,4.27
+Baga  Goa,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,4.19
+Miramar  Goa,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.40
+Colva,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,4.39
+Calangute,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,4.46
+Dona Paula,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.22
+Margao,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,4.00
+St. Mary%27s Islands,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.38
+Makalidurga,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Bylakuppe,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.00
+Dandeli,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,4.00
+Badami,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,3.50
+Sigandur,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,4.86
+Tumkur,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,3.33
+Belgaum,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,4.29
+Mysore,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,4.10
+Hubli,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,4.00
+Dudhsagar Falls,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.70
+Srirangapatna,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,3.80
+Dharmasthala,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,4.33
+Malpe,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.57
+Murdeshwar,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.19
+Karwar  Karnataka,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,4.38
+Kemmangundi,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,3.72
+Hampi,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.25
+Gokarna  Karnataka,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,3.97
+Kodagu district,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,4.03
+Belur (town),No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.53
+Shravanabelagola,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.71
+Maravanthe,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,2.00
+Mangalore,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,4.21
+Dakshina Kannada#South Canara,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,4.43
+Bijapur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,4.06
+Bangalore,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,3.51
+Shimoga,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,4.55
+Hyderabad,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.30
+Secunderabad,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,2.75
+Bhadrachalam,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.43
+Allagadda,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.33
+Tirumala,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,No,4.35
+Srikalahasti,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.67
+Gandikota,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,4.33
+Lepakshi,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,4.00
+Amaravati,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,4.00
+Chittoor  Andhra Pradesh,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,3.20
+Tenali,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Nellore,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Tirupati,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,4.31
+Machilipatnam,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,4.50
+Bomdila,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,4.50
+Visakhapatnam,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,4.33
+Nagalapuram,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.67
+Warangal,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,4.30
+Kurnool,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,4.67
+Kadapa,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,4.50
+Rajahmundry,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,4.50
+Munnar,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,4.38
+Kannur,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,1.50
+Kakkadampoyil,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.50
+Kodanad,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.40
+Kalpetta,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.00
+Thrissur,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.11
+Guruvayur,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,4.75
+Thenmala,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,4.25
+Kollam,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4.00
+Kumarakom,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,4.40
+Athirappilly,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.67
+Vagamon,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,3.75
+Aluva,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.50
+Wayanad district,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,4.35
+Alappuzha,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,3.78
+Palakkad,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,3.86
+Sabarimala,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,4.25
+Thiruvananthapuram,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.31
+Thekkady,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.95
+Kozhikode,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,3.33
+Kovalam,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.19
+Kollam,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3.67
+Ernakulam,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.33
+Kochi,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.11
+Kottayam,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,4.50
+Kodaikanal,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,4.10
+Tirunelveli,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,3.25
+Karaikudi,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,3.75
+Valparai,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,4.00
+Thirumayam,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,3.50
+Thoothukudi,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,2.67
+Theni,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.67
+Palani,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,3.75
+Tiruchirappalli,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.58
+Yercaud,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,3.89
+Kumbakonam,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,4.40
+Courtallam,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,4.20
+Tiruvannamalai,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,4.67
+Yelagiri,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,3.46
+Thanjavur,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.55
+Ooty,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,4.17
+Madurai,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.00
+Kanyakumari,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,4.30
+Kanchipuram,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,4.37
+Chennai,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3.90
+Coimbatore,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.42
+Coonoor,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.23
+Rameswaram,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,4.30
+Yercaud,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,3.86
+Pondicherry,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,4.06
+Port Blair,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,4.65
+Havelock Island,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.38
+Agatti Island,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.60
+Lakshadweep,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,3.58
+Silvassa,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,3.67
+Namchi,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,No,4.29
+Ravangla,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.67
+Soreng,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.00
+Lachung,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.75
+Gangtok,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.40
+Dibrugarh,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.80
+Tinsukia,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.00
+Digboi,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.50
+Jorhat,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,4.00
+Majuli,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,4.71
+Guwahati,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,4.24
+Bhalukpong,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,4.00
+Itanagar,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.00
+Tawang,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.50
+Shillong,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,4.32
+Cherrapunji,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.50
+Mawlynnong,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.50
+Wokha,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.50
+Dimapur,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.00
+Kohima,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,3.67
+Ukhrul,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,4.00
+Imphal,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,4.00
+Aizawl,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.00
+Unakoti,Yes,No,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,4.00
+Agartala,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,4.33
+Murshidabad,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,4.50
+Bagdogra,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,1.00
+Digha,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,3.46
+Gadiara,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.67
+Mukutmanipur,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.00
+Sundarbans,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,4.00
+Haldia,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,1.60
+Raiganj,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,3.50
+Asansol,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,3.57
+Purulia,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,3.80
+Howrah,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,3.30
+Baharampur,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,4.00
+Durgapur,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Krishnanagar  Nadia,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,4.00
+Bakkhali,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.06
+Mandarmani,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,3.25
+Darjeeling,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,4.26
+Kolkata,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,4.17
+Kalimpong,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,3.88
+Rourkela,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,4.00]
+Gopalpur  Odisha,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,3.50
+Kendujhar,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.33
+Phulbani,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,3.20
+Sambalpur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4.00
+Jeypore,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4.50
+Koraput,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,2.33
+Cuttack,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.50
+Bhubaneswar,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.24
+Puri,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4.30
+Angul,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,4.67
+Ghatshila,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.33
+Maluti,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,3.00
+Netarhat,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,2.67
+Dumka,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,2.00
+Jamshedpur,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,4.00
+Medininagar,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,3.00
+Dhanbad,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,4.00
+Hazaribagh,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,3.20
+Latehar,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,3.00
+Ranchi,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,4.15
+Bastar district,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,3.60
+Jamnagar,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,2.67
+Vadodara,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,3.89
+Dang District  India,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,4.00
+Gandhinagar,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,4.38
+Mandvi,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,4.33
+Bhuj,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,4.45
+Bhavnagar,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,3.83
+Veraval,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.00
+Rajkot,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,4.25
+Kutch district,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,4.80
+Dwarka,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,3.87
+Palitana,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,4.86
+Udwada,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,4.00
+Saurashtra (region),No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.63
+Gondal  India,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,4.33
+Diu  India,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,4.09
+Junagadh,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,4.67
+Porbander,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,4.10
+Surat,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3.83
+Baroda,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,4.42
+Ahmedabad,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,4.43
+Daman,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.05
+Tikamgarh,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,2.00
+Dewas,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.50
+Multai,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Bhedaghat,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.75
+Singrauli,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,3.33
+Jhansi,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,4.25
+Ratlam,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,3.70
+Orchha,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,4.60
+Amarkantak,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.56
+Chitrakoot  Madhya Pradesh,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,4.00
+Sanchi,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,No,No,Yes,4.50
+Datia,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Panchmarhi,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,3.83
+Maheshwar,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,3.33
+Mandu  Madhya Pradesh,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,3.80
+Bhopal,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,4.37
+Jabalpur,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,3.50
+Indore,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,Yes,4.62
+Pachmarhi,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,4.40
+Gwalior,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.10
+Ujjain,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,4.29
+Ganpatipule,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,4.32
+Saputara,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.68
+Tuljapur,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.63
+Ahmednagar,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,4.22
+Sevagram,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,3.00
+Palghar,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,1.50
+Kaas Plateau,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,4.25
+Kalyan,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,3.50
+Sawantwadi,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.67
+Ratnagiri,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,4.25
+Dudhani,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,3.00
+Shrivardhan,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,4.50
+Wai  Maharashtra,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,4.80
+Solapur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,3.33
+Khed  Ratnagiri,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,4.00
+Amravati,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,4.67
+Malvan,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,4.50
+Kolad,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
+Bhivpuri,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,3.57
+Nashik,Yes,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,4.12
+Shani Shingnapur,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,2.22
+Magarpatta,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,3.50
+Lavasa,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,3.09
+Amboli  Sindhudurg,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.17
+Aamby Valley City,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,2.95
+Diveagar,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,4.05
+Kamshet,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,3.83
+Aurangabad  Maharashtra,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,4.32
+Tarkarli,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.11
+Tuljapur,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.63
+Satara (city),Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.73
+Pandharpur,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,3.71
+Ganpatipule,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,4.32
+Bhandardhara,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.33
+Kolhapur,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,4.25
+Saputara,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.68
+Navi Mumbai,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,4.23
+Panchgani,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,3.89
+Shirdi,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.49
+Nagpur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.15
+Mahabaleshwar,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,4.19
+Khandala,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.28
+Lonavla,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,4.24
+Kihim,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,3.89
+Dahanu,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,4.14
+Bassein,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.50
+Alibag,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.85
+Mumbai,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.21
+Dhaka,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.33
+Chittagong,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,3.50
+Zhejiang,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,3.50
+Yunnan,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,4
+Macau,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.20
+Guilin,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,4
+Shanghai,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.29
+Beijing,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.32
+Hong kong,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.11
+Bali,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,4.26
+Java,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,4.5
+Jakarta,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.2
+Hiroshima,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,4
+Tokyo,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.57
+Almaty,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,3
+Pulau Ketam,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.33
+Putrajaya,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,3.5
+Penang,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4
+Kuala Lumpur,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4.45
+Langkawi,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,4.43
+Miri  Malaysia,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4
+Kuala Kangsar District,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.5
+Tioman Island,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.75
+Kuantan,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4
+Shah Alam,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4
+Johor Bahru,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4
+Batu Gajah,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,4
+Port Dickson,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,3.50
+Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.5
+Pokhara,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.69
+Lalitpur  Nepal,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,3.5
+Kathmandu,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.25
+Bhaktapur,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,4
+Rawalpindi,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4
+Quetta,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,4.8
+Peshawar,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,4.25
+Lahore,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4.62
+Karachi,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.11
+Islamabad,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,4.74
+Gilgit,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,4.74
+Manila,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.33
+Boracay,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.33
+Singapore,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,4.26
+Sentosa,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,4.69
+Seoul,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.13
+Bentota,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3
+Kandy,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.67
+Colombo,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.13
+Taichung,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No,4
+Taipei,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4
+Ko Samui,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,4
+Chiang Mai,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,4.8
+Phuket City,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.33
+Phuket Province,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,4.33
+Pattaya,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,4.25
+Bangkok,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.29
+Ho Chi Minh City,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3
+Hanoi,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.67
+Vienna,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,3.88
+Salzburg,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,4.86
+Innsbruck,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,4.50
+Ypres,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,4.67
+Antwerp,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,3.75
+Sofia,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.50
+Lanzarote,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,4.00
+Canary Islands,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,4.40
+Ayia Napa,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,4.00
+Cyprus,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,4.40
+Prague,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.43
+Copenhagen,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.50
+Cannes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,4.75
+Paris,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,4.57
+Heidelberg,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,4.00
+Stuttgart,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,2.20
+Munich,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.67
+Frankfurt,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,3.43
+Dresden,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,4.50
+Cologne,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,4.00
+Berlin,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.63
+Ireland,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,4.80
+Piedmont,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,4.50
+Verona,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,4.50
+Turin,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.00
+Pompeii,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.50
+Venice,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,4.52
+Rome,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.84
+Milan,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,4.40
+Florence,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4.67
+Monte Carlo,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,4.00
+Rotterdam,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,4.00
+Amsterdam,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.39
+Warsaw,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4.33
+Bucharest,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.50
+Slovakia,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4.50
+Slovenia,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,3.75
+Sevilla,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.50
+Mallorca,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,4.50
+Madrid,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4.40
+Ibiza,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,4.40
+Barcelona,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4.10
+Stockholm,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4.00
+Lucerne,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,4.75
+Zurich,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4.43
+Geneva,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,4.50
+Newcastle Upon Tyne,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.00
+Nottinghamshire,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,3.50
+Filey,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.50
+The Isle of Wight,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,4.33
+Bradford,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.00
+Cardiff,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4.00
+Glasgow,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.50
+Edinburg  Texas,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,4.80
+Plymouth,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,No,Yes,Yes,3.75
+Cambridge,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,4.50
+Oxford,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.00
+Manchester,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,4.33
+London,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.40

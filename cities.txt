@@ -7,7 +7,7 @@ Johannesburg-3.60
 Nairobi-4.57
 Seychelles-4.17
 Windhoek-4.00
-Durban-	4.50
+Durban-4.50
 Addis Ababa-3.50
 Madagascar-3.50
 Zanzibar-4.00
@@ -493,7 +493,7 @@ Kuala Lumpur-4.45
 Langkawi-4.43
 Miri, Malaysia-4
 Kuala Kangsar District-4.5
-Tioman Island- 4.75
+Tioman Island-4.75
 Kuantan-4
 Shah Alam-4
 Johor Bahru-4
