@@ -18,7 +18,7 @@ for column in columns:
     tourist=tourist.replace({column: mapping})
     
 
-train= tourist.sample(frac=0.8,random_state=1)
+train= tourist.sample(frac=0.8)
 test=  tourist.loc[~tourist.index.isin(train.index)]
 
 trainAttributes=train[columns].astype('float64')
@@ -28,6 +28,14 @@ testTarget=test[target].astype('float64')
 testTarget=list(testTarget)
 
 selector = SelectKBest(mutual_info_regression,k=10).fit(trainAttributes,trainTarget)
+
+ids_selected = selector.get_support(indices=True)
+
+selectedcolumns=trainAttributes.columns[ids_selected]
+
+print("The columns used for training are: ")
+for x in selectedcolumns:
+    print(x)
 
 newtrainX= selector.transform(trainAttributes)
 
@@ -46,6 +54,6 @@ for x in range(0,len(testTarget)):
         count+=1
     #print(regr.predict(h)," ",testTarget[x])
 
-print((count/len(testTarget))*100,"%")
+print("\nAccuracy: ",(count/len(testTarget))*100,"%")
 
 #print(regr.score(newtestX,testTarget))
