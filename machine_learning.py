@@ -27,29 +27,16 @@ testAttributes=test[columns].astype('float64')
 testTarget=test[target].astype('float64')
 testTarget=list(testTarget)
 
-selector = SelectKBest(mutual_info_regression,k=10).fit(trainAttributes,trainTarget)
-
-ids_selected = selector.get_support(indices=True)
-
-selectedcolumns=trainAttributes.columns[ids_selected]
-
-print("The columns used for training are: ")
-for x in selectedcolumns:
-    print(x)
-
-newtrainX= selector.transform(trainAttributes)
-
-newtestX=  selector.transform(testAttributes)
-
 regr = DecisionTreeRegressor(max_depth=2)
 #regr=linear_model.LinearRegression()
 
-regr.fit(newtrainX,trainTarget)
+regr.fit(trainAttributes,trainTarget)
 
 count=0;
 
 for x in range(0,len(testTarget)):
-    h=newtestX[x,0:].reshape(1,-1)
+    h=testAttributes.iloc[x]
+    h=np.array(h).reshape(1,-1)
     if(int(round(float(regr.predict(h))))==int(round(float(testTarget[x]))))    :
         count+=1
     #print(regr.predict(h)," ",testTarget[x])
