@@ -358,7 +358,7 @@ Mandarmani-3.25
 Darjeeling-4.26
 Kolkata-4.17
 Kalimpong-3.88
-Rourkela-4.00]
+Rourkela-4.00
 Gopalpur, Odisha-3.50
 Kendujhar-4.33
 Phulbani-3.20
