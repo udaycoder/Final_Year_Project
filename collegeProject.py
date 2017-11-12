@@ -23,9 +23,9 @@ from bs4 import BeautifulSoup
 import requests
 
 ps = PorterStemmer()
-st = StanfordNERTagger('stanford-ner-2017-06-09/classifiers/english.all.3class.distsim.crf.ser.gz',
-					   'stanford-ner-2017-06-09/stanford-ner.jar',
-					   encoding='utf-8')
+#st = StanfordNERTagger('stanford-ner-2017-06-09/classifiers/english.all.3class.distsim.crf.ser.gz',
+#					   'stanford-ner-2017-06-09/stanford-ner.jar',
+#					   encoding='utf-8')
 
 def corpusCreator(query_string):
     query_string=list(query_string)
@@ -64,10 +64,11 @@ def csvCreator():
     line=r.readline()
     while(line):
         words = nltk.word_tokenize(line)
-        classified_text = st.tag(words)
-        for w in classified_text:
-          if w[1]=='O' and (w[0]!=''):
-            wo=ps.stem(w[0])
+#        classified_text = st.tag(words)
+        for w in words:
+          #if w[1]=='O' and (w[0]!=''):
+           # wo=ps.stem(w[0])
+            wo=ps.stem(w)
             if wo in ('^'):
                city_title_full=title.readline()
                city_title_full=city_title_full.split('-') 
@@ -142,14 +143,16 @@ def csvCreator():
 
 
 
-with open("cities.txt") as f:
-      for line in f:
-         query_string=line.split('-')[0]
-         corpusCreator(query_string)
+# =============================================================================
+# with open("cities.txt") as f:
+#       for line in f:
+#          query_string=line.split('-')[0]
+#          corpusCreator(query_string)
+# =============================================================================
 
 
 
-#csvCreator()
+csvCreator()
 #==============================================================================
 # API_KEY = "AIzaSyAfNwA6QqnL8wJZb_quAgXf11FxxUQLTzw"
 # urldetails = "https://maps.googleapis.com/maps/api/place/details/json?"
