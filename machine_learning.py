@@ -4,7 +4,7 @@ import pandas
 from sklearn.feature_selection import SelectKBest,mutual_info_regression
 from sklearn import linear_model
 import math
-from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score
+from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score,mean_squared_error
 
 tourist=pandas.read_csv("csvfile.csv")
 
@@ -48,6 +48,7 @@ for x in range(0,len(testTarget)):
     #print(regr.predict(h)," ",testTarget[x])
 
 print("Accuracy Score: ",accuracy_score(actualList,predictedList))
+print("Mean Squared Error: ",mean_squared_error(actualList,predictedList))
 print("F1_score: ",f1_score(actualList,predictedList,average="macro"))
 print("Precision Score: ",precision_score(actualList,predictedList,average="macro"))
 print("Recall Score: ",recall_score(actualList,predictedList,average="macro"))
