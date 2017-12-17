@@ -16,6 +16,7 @@ import nltk
 from nltk.tokenize import PunktSentenceTokenizer
 from nltk.tag import StanfordNERTagger
 from nltk.stem import WordNetLemmatizer
+from nltk.parse.stanford import StanfordDependencyParser
 from nltk.corpus import wordnet as wn
 from nltk.stem import PorterStemmer
 import urllib.request
@@ -26,6 +27,9 @@ ps = PorterStemmer()
 st = StanfordNERTagger('stanford-ner-2017-06-09/classifiers/english.all.3class.distsim.crf.ser.gz',
 					   'stanford-ner-2017-06-09/stanford-ner.jar',
 					   encoding='utf-8')
+path_to_jar = 'stanford-parser-full-2017-06-09/stanford-parser.jar'
+path_to_models_jar = 'stanford-parser-full-2017-06-09/stanford-parser-3.8.0-models.jar'
+dependency_parser = StanfordDependencyParser(path_to_jar=path_to_jar, path_to_models_jar=path_to_models_jar)
 
 def corpusCreator(query_string):
     query_string=list(query_string)
@@ -65,6 +69,15 @@ def csvCreator():
     while(line):
         words = nltk.word_tokenize(line)
         classified_text = st.tag(words)
+        dep=dependency_parser.raw_parse(line)
+        dep=dep.__next__()
+        neg_words=set([])
+        for i in dep.triples():
+            if(i[1]=='neg'):
+                neg_words.add(ps.stem(i[0][0]))
+            if(i[1]=='conj' and i[0][0] in neg_words):
+                neg_words.add(ps.stem(i[2][0]))
+
         for w in classified_text:
           if w[1]=='O' and (w[0]!=''):
             wo=ps.stem(w[0])
@@ -83,46 +96,48 @@ def csvCreator():
                    rating=city_title_full[1]
                csvfile.write(city_title+','+dict['Mountain']+','+dict['Desert']+','+ dict['Waterfall']+','+dict['Beach']+','+dict['River']+','+dict['Workship-place']+','+dict['Climate']+','+dict['Zoo']+','+dict['Park']+','+dict['Travel']+','+dict['Archaeological']+','+dict['Festival']+','+dict['Pollution']+','+dict['Tourist']+','+dict['Cuisine']+','+dict['Safety']+','+dict['Museum']+','+dict['Stadium']+','+dict['Market']+','+dict['Concert']+','+rating)
                dict = {'Mountain': 'No', 'Desert': 'No', 'Waterfall': 'No', 'Beach': 'No', 'River': 'No','Workship-place': 'No','Climate': 'No','Zoo': 'No','Park': 'No','Travel': 'No','Archaeological': 'No','Festival': 'No','Pollution': 'No','Tourist': 'No','Cuisine': 'No','Safety': 'Yes','Museum': 'No','Stadium': 'No','Market': 'No','Concert': 'No'}
-            if wo in (ps.stem("Mountain"), ps.stem("mountain")):
-   	           dict['Mountain'] = "Yes"
-            if wo in (ps.stem("Desert"), ps.stem("desert")):
-               dict['Desert'] = "Yes"
-            if wo in (ps.stem("Waterfall"), ps.stem("waterfall")):
-            	   dict['Waterfall'] = "Yes"
-            if wo in (ps.stem("Beach"), ps.stem("beach"), ps.stem("beaches"), ps.stem("Beaches")):
-               dict['Beach'] = "Yes"
-            if wo in (ps.stem("River"), ps.stem("river"),ps.stem("Lake"),ps.stem("lake")):
-            	   dict['River'] = "Yes"
-            if wo in (ps.stem("Temple"), ps.stem("Church"), ps.stem("temple"), ps.stem("church"),ps.stem("Chapel"),ps.stem("chapel"),ps.stem("Mosque"),ps.stem("mosque")):
-            	   dict['Workship-place'] = "Yes"
-            if wo in (ps.stem("Snowfall"), ps.stem("snowfall"), ps.stem("Hilly"), ps.stem("hilly")):
-                dict['Climate'] = "Yes"
-            if wo in (ps.stem("Zoo"), ps.stem("zoo")):
-                dict['Zoo'] = "Yes"
-            if wo in (ps.stem("Park"), ps.stem("park"), ps.stem("Garden"), ps.stem("garden")):
-                dict['Park'] = "Yes"
-            if wo in (ps.stem("Airport"), ps.stem("airport"), ps.stem("Railway"), ps.stem("railway")):
-                dict['Travel'] = "Yes"
-            if wo in (ps.stem("Archaeological"), ps.stem("archaeological")):
-                dict['Archaeological'] = "Yes"
-            if wo in (ps.stem("Festival"), ps.stem("festival"), ps.stem("Carnival"), ps.stem("carnival"), ps.stem("Pilgrim"), ps.stem("pilgrim")):
-                dict['Festival'] = "Yes"
-            if wo in (ps.stem("Pollution"), ps.stem("pollution")):
-                dict['Pollution'] = "Yes"
-            if wo in (ps.stem("Tourist"), ps.stem("tourist")):
-                dict['Tourist'] = "Yes"
-            if wo in (ps.stem("Cuisine"), ps.stem("cuisine"), ps.stem("Food"), ps.stem("food")):
-                dict['Cuisine'] = "Yes"
-            if wo in (ps.stem("Terrorism"), ps.stem("terrorism"), ps.stem("Killing"), ps.stem("killing")):
-                dict['Safety'] = "No"
-            if wo in (ps.stem("Museum"), ps.stem("museum")):
-                dict['Museum'] = "Yes" 
-            if wo in (ps.stem("Stadium"), ps.stem("stadium")):
-                dict['Stadium'] = "Yes"
-            if wo in (ps.stem("Shopping"), ps.stem("shopping"), ps.stem("Market"), ps.stem("market")):
-                dict['Market'] = "Yes"
-            if wo in (ps.stem("Dance"), ps.stem("dance"), ps.stem("Music"), ps.stem("music"), ps.stem("Concert"), ps.stem("concert")):
-                dict['Concert'] = "Yes"    
+            if wo not in neg_words:
+                if wo in (ps.stem("Mountain"), ps.stem("mountain")):
+       	           dict['Mountain'] = "Yes"
+                if wo in (ps.stem("Desert"), ps.stem("desert")):
+                   dict['Desert'] = "Yes"
+                if wo in (ps.stem("Waterfall"), ps.stem("waterfall")):
+                	   dict['Waterfall'] = "Yes"
+                if wo in (ps.stem("Beach"), ps.stem("beach"), ps.stem("beaches"), ps.stem("Beaches")):
+                   dict['Beach'] = "Yes"
+                if wo in (ps.stem("River"), ps.stem("river"),ps.stem("Lake"),ps.stem("lake")):
+                	   dict['River'] = "Yes"
+                if wo in (ps.stem("Temple"), ps.stem("Church"), ps.stem("temple"), ps.stem("church"),ps.stem("Chapel"),ps.stem("chapel"),ps.stem("Mosque"),ps.stem("mosque")):
+                	   dict['Workship-place'] = "Yes"
+                if wo in (ps.stem("Snowfall"), ps.stem("snowfall"), ps.stem("Hilly"), ps.stem("hilly")):
+                    dict['Climate'] = "Yes"
+                if wo in (ps.stem("Zoo"), ps.stem("zoo")):
+                    dict['Zoo'] = "Yes"
+                if wo in (ps.stem("Park"), ps.stem("park"), ps.stem("Garden"), ps.stem("garden")):
+                    dict['Park'] = "Yes"
+                if wo in (ps.stem("Airport"), ps.stem("airport"), ps.stem("Railway"), ps.stem("railway")):
+                    dict['Travel'] = "Yes"
+                if wo in (ps.stem("Archaeological"), ps.stem("archaeological")):
+                    dict['Archaeological'] = "Yes"
+                if wo in (ps.stem("Festival"), ps.stem("festival"), ps.stem("Carnival"), ps.stem("carnival"), ps.stem("Pilgrim"), ps.stem("pilgrim")):
+                    dict['Festival'] = "Yes"
+                if wo in (ps.stem("Pollution"), ps.stem("pollution")):
+                    dict['Pollution'] = "Yes"
+                if wo in (ps.stem("Tourist"), ps.stem("tourist")):
+                    dict['Tourist'] = "Yes"
+                if wo in (ps.stem("Cuisine"), ps.stem("cuisine"), ps.stem("Food"), ps.stem("food")):
+                    dict['Cuisine'] = "Yes"
+                if wo in (ps.stem("Terrorism"), ps.stem("terrorism"), ps.stem("Killing"), ps.stem("killing")):
+                    dict['Safety'] = "No"
+                if wo in (ps.stem("Museum"), ps.stem("museum")):
+                    dict['Museum'] = "Yes" 
+                if wo in (ps.stem("Stadium"), ps.stem("stadium")):
+                    dict['Stadium'] = "Yes"
+                if wo in (ps.stem("Shopping"), ps.stem("shopping"), ps.stem("Market"), ps.stem("market")):
+                    dict['Market'] = "Yes"
+                if wo in (ps.stem("Dance"), ps.stem("dance"), ps.stem("Music"), ps.stem("music"), ps.stem("Concert"), ps.stem("concert")):
+                    dict['Concert'] = "Yes"
+        neg_words.clear()
         line=r.readline()
            	 
     r.close()
