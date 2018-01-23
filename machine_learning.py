@@ -4,7 +4,7 @@ import pandas
 from sklearn.feature_selection import SelectKBest,mutual_info_regression
 from sklearn import linear_model
 import math
-from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score,mean_squared_error
+from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score,mean_squared_error,confusion_matrix
 
 tourist=pandas.read_csv("csvfile.csv")
 
@@ -52,4 +52,6 @@ print("Mean Squared Error: ",mean_squared_error(actualList,predictedList))
 print("F1_score: ",f1_score(actualList,predictedList,average="macro"))
 print("Precision Score: ",precision_score(actualList,predictedList,average="macro"))
 print("Recall Score: ",recall_score(actualList,predictedList,average="macro"))
+print("Confusion Matrix: ")
+print(confusion_matrix(actualList,predictedList))
 #print(regr.score(newtestX,testTarget))
