@@ -19,7 +19,7 @@ for column in columns:
     tourist=tourist.replace({column: mapping})
     
 
-train= tourist.sample(frac=0.8)
+train= tourist.sample(frac=0.8,random_state=1)
 test=  tourist.loc[~tourist.index.isin(train.index)]
 
 trainAttributes=train[columns].astype('float64')
