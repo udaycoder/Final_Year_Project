@@ -41,7 +41,7 @@ def performPrediction(event):
 
     inputInstance = np.array(inputInstance).reshape(1,-1)    #Reshaping the instance to be accepted by the model
 
-    predictedOutputRating = int(round(float(model.predict(inputInstance)))) #Return the Output rating to the user in the app
+    predictedOutputRating = float(model.predict(inputInstance)) #Return the Output rating to the user in the app
     
     output = str("The rating is ")+str(predictedOutputRating) 
     
