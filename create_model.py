@@ -44,11 +44,15 @@ actualList=[]
 w, h = 5, 5;
 Matrix = [[0 for x in range(w)] for y in range(h)]
 
+print()
+print("Actual\tPredicted")
+
 for x in range(0,len(testTarget)):
     h=testAttributes.iloc[x]
     h=np.array(h).reshape(1,-1)
     p= int(round(float(regr.predict(h))))
     a= int(round(float(testTarget[x])))
+    print(a,"\t",p)
     Matrix[a-1][p-1] += 1 
     predictedList.append(p)
     actualList.append(a)
