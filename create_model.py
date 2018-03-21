@@ -41,11 +41,15 @@ count=0;
 predictedList=[]
 actualList=[]
 
+w, h = 5, 5;
+Matrix = [[0 for x in range(w)] for y in range(h)]
+
 for x in range(0,len(testTarget)):
     h=testAttributes.iloc[x]
     h=np.array(h).reshape(1,-1)
     p= int(round(float(regr.predict(h))))
     a= int(round(float(testTarget[x])))
+    Matrix[a-1][p-1] += 1 
     predictedList.append(p)
     actualList.append(a)
     #print(regr.predict(h)," ",testTarget[x])
@@ -56,5 +60,6 @@ print("F1_score: ",f1_score(actualList,predictedList,average="macro"))
 print("Precision Score: ",precision_score(actualList,predictedList,average="macro"))
 print("Recall Score: ",recall_score(actualList,predictedList,average="macro"))
 print("Confusion Matrix: ")
-print(confusion_matrix(actualList,predictedList))
+for x in Matrix:
+    print(x)
 #print(regr.score(newtestX,testTarget))
