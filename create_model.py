@@ -1,7 +1,7 @@
 from sklearn.tree import DecisionTreeRegressor
 import numpy as np
 import pandas
-from sklearn.feature_selection import SelectKBest,mutual_info_regression
+from sklearn.feature_selection import SelectKBest
 from sklearn import linear_model
 import pickle
 from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score,mean_squared_error,confusion_matrix
