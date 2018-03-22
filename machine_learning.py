@@ -51,7 +51,7 @@ def performPrediction(event):
 
 root=Tk()
 
-root.title("Tourist Destination Ratings Prediction")
+root.title("Rating Prediction of Tourist Destinations")
 
 frame1 = Frame(root)
 frame2 = Frame(root)
@@ -85,7 +85,7 @@ val8=Entry(frame2, width=8 ,textvariable=StringVar(frame2, value='0'))
 val9=Entry(frame2, width=8 ,textvariable=StringVar(frame2, value='0'))
 val10=Entry(frame2, width=8 ,textvariable=StringVar(frame2, value='0'))
 
-val1.grid(row=5 ,column =0 , sticky='W' ,padx=1, pady = 1)
+val1.grid(row=5 ,column=0 , sticky='W' ,padx=1, pady = 1)
 val2.grid(row=5 ,column=1, sticky='W' ,padx=1, pady = 1)
 val3.grid(row=5 ,column=2 , sticky='W' ,padx=1, pady = 1)
 val4.grid(row=5 ,column=3 , sticky='W' ,padx=1, pady = 1)
@@ -118,7 +118,7 @@ val18=Entry(frame2, width=8 ,textvariable=StringVar(frame2, value='0'))
 val19=Entry(frame2, width=8 ,textvariable=StringVar(frame2, value='0'))
 val20=Entry(frame2, width=8 ,textvariable=StringVar(frame2, value='0'))
 
-val11.grid(row=10 ,column=0, sticky='W' ,padx=1, pady = 4)
+val11.grid(row=10,column=0, sticky='W' ,padx=1, pady = 4)
 val12.grid(row=10,column=1, sticky='W' ,padx=1, pady = 4)
 val13.grid(row=10,column=2, sticky='W' ,padx=1, pady = 4)
 val14.grid(row=10,column=3, sticky='W' ,padx=1, pady = 4)
