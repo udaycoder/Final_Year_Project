@@ -9,7 +9,7 @@ Created on Thu Mar 22 14:17:46 2018
 # import re
 # import nltk
 # from sklearn.feature_extraction.text import CountVectorizer
-#from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 # =============================================================================
 import os
 import pickle
@@ -88,12 +88,14 @@ for root,dirs,files in walker:
 # 
 # tfidf = TfidfVectorizer(norm="l2",input='filename',stop_words='english',tokenizer=stemTokenizer(), lowercase = True)
 # =============================================================================
-        
+ 
+document_file_name = ['corpus.txt']
+       
 # =============================================================================
 # tfidf = TfidfVectorizer(norm="l2",input='filename',stop_words='english', lowercase = True)
-# tfidf.fit(list_of_files)
+# tfidf.fit(document_file_name)
 # 
-# filename = 'tfidf.pkl'
+# filename = 'tfidf_ourcorpus.pkl'
 # pickle.dump(tfidf , open(filename, 'wb'))
 # =============================================================================
 
@@ -104,23 +106,29 @@ tfidf = pickle.load(open('tfidf.pkl', 'rb'))
 # doc_freq_term = count_vect.transform(document_file_name)
 # =============================================================================
 
-document_file_name = ['corpus.txt']
-
 doc_tfidf_matrix = tfidf.transform(document_file_name)
 
 scores = zip(tfidf.get_feature_names(),
                  np.asarray(doc_tfidf_matrix.sum(axis=0)).ravel())
 sorted_scores = sorted(scores, key=lambda x: x[1], reverse=True)
 
-top_n = 50
+top_n = 20
 
 words = set(nltk.corpus.words.words())
 
 count = 0
 
+attribute_file = open("attributes.txt","w")
+
 for item in sorted_scores:
     if item[0] in words:
+        if item[0]=="city":
+            continue
         print("{0:50} Score: {1}".format(item[0], item[1]))
+        attribute_file.write(item[0])
+        attribute_file.write('\n')
         count+=1
     if count == top_n:
         break
+
+attribute_file.close()
