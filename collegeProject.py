@@ -6,14 +6,14 @@
 """
 
 import nltk
-from nltk.tokenize import PunktSentenceTokenizer
-from nltk.tag import StanfordNERTagger
-from nltk.stem import WordNetLemmatizer
-from nltk.corpus import wordnet as wn
+#from nltk.tokenize import PunktSentenceTokenizer
+#from nltk.tag import StanfordNERTagger
+#from nltk.stem import WordNetLemmatizer
+#from nltk.corpus import wordnet as wn
 from nltk.stem import PorterStemmer
 import urllib.request
 from bs4 import BeautifulSoup
-import requests
+#import requests
 
 ps = PorterStemmer()
 # =============================================================================

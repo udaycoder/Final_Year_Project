@@ -9,7 +9,7 @@ Created on Thu Mar 22 14:17:46 2018
 # import re
 # import nltk
 # from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfVectorizer
+#from sklearn.feature_extraction.text import TfidfVectorizer
 # =============================================================================
 import os
 import pickle
