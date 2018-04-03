@@ -38,18 +38,18 @@ import nltk
 # =============================================================================
 
 
-root_dir = r"raw_en"
-
-walker = os.walk(root_dir)
-
-list_of_files = []
-
-words = set(nltk.corpus.words.words())
-
-for root,dirs,files in walker:
-    for f in files:
-        list_of_files.append(str(os.path.join(root,f)))
 # =============================================================================
+# root_dir = r"raw_en"
+# 
+# walker = os.walk(root_dir)
+# 
+# list_of_files = []
+# 
+# words = set(nltk.corpus.words.words())
+# 
+# for root,dirs,files in walker:
+#     for f in files:
+#         list_of_files.append(str(os.path.join(root,f)))
 #         data = open(str(os.path.join(root,f)),"r",encoding='windows-1252')
 #         content = data.read()
 #         content = " ".join(w for w in nltk.wordpunct_tokenize(content) if w.lower() in words)
