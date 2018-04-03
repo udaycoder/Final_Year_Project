@@ -2,39 +2,41 @@ from sklearn.tree import DecisionTreeRegressor
 import numpy as np
 import pandas
 #from sklearn.feature_selection import SelectKBest
-#from sklearn import linear_model
+from sklearn import linear_model
 import pickle
-#from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score,mean_squared_error,confusion_matrix
+from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score,mean_squared_error,confusion_matrix
+from sklearn import svm
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.naive_bayes import GaussianNB
 
-tourist=pandas.read_csv("csvfile.csv")
+tourist=pandas.read_csv("csvfile_discrete.csv")
 
-mapping = {'Yes': 1, 'No': 0 }
-
-columns = tourist.columns.tolist()
-
-target="Rating"
-columns=[c for c in columns if c not in["Rating","City"]]
-
-for column in columns:
-    tourist=tourist.replace({column: mapping})
-    
+columns = tourist.columns.tolist()  
 
 train= tourist.sample(frac=0.8,random_state=1)
 test=  tourist.loc[~tourist.index.isin(train.index)]
 
-trainAttributes=train[columns].astype('float64')
-trainTarget=train[target].astype('float64')
-testAttributes=test[columns].astype('float64')
-testTarget=test[target].astype('float64')
+target="Rating"
+columns=[c for c in columns if c not in["Rating","City"]]  
+
+trainAttributes=train[columns].astype('float64').round()
+trainTarget=train[target].astype('float64').round()
+testAttributes=test[columns].astype('float64').round()
+testTarget=test[target].astype('float64').round()
 testTarget=list(testTarget)
 
 regr = DecisionTreeRegressor(max_depth=2)
-#regr=linear_model.LinearRegression()
+lregr=linear_model.LinearRegression()
+svm_clf = svm.SVC( kernel='rbf')
+rndf_clf = RandomForestClassifier(max_depth=2, random_state=0)
+gnb = GaussianNB()
 
-regr.fit(trainAttributes,trainTarget)
+svm_clf.fit(trainAttributes,trainTarget)
 
-filename = 'MachineLearningModel.pkl'
-pickle.dump(regr, open(filename, 'wb'))
+# =============================================================================
+# filename = 'MachineLearningModel.pkl'
+# pickle.dump(regr, open(filename, 'wb'))
+# =============================================================================
 
 count=0;
 
@@ -50,7 +52,7 @@ print("Actual\tPredicted")
 for x in range(0,len(testTarget)):
     h=testAttributes.iloc[x]
     h=np.array(h).reshape(1,-1)
-    p= int(round(float(regr.predict(h))))
+    p= int(round(float(svm_clf.predict(h))))
     a= int(round(float(testTarget[x])))
     print(a,"\t",p)
     Matrix[a-1][p-1] += 1 

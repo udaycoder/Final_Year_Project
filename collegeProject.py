@@ -6,6 +6,7 @@
 """
 
 import nltk
+import math
 #from nltk.tokenize import PunktSentenceTokenizer
 #from nltk.tag import StanfordNERTagger
 #from nltk.stem import WordNetLemmatizer
@@ -78,7 +79,7 @@ def csvCreator():
     
     attributes.close()    
 
-    csvfile = open("csvfile.csv", "w")
+    csvfile = open("csvfile_discrete.csv", "w")
     csvfile.write(csvTitleStr)
     
     line=r.readline()
@@ -100,16 +101,39 @@ def csvCreator():
                            city_title[i]=' '
                    city_title=''.join(city_title)
                    print(city_title,"  completed")
-                   rating=city_title_full[1]
+                   rating=float(city_title_full[1])
+                   rating_floor = math.floor(float(rating))
+                   rating_middle = rating_floor + 0.5;
+                   rating_ceil = rating_floor + 1.0;
+                   if(rating<rating_middle):
+                       dis1 = abs(rating_middle-rating)
+                       dis2 = abs(rating-rating_floor)
+                       if(dis1<dis2):
+                           rating= rating_middle
+                       else:
+                           rating = rating_floor
+                   else:
+                       dis1 = abs(rating_ceil-rating)
+                       dis2 = abs(rating-rating_middle)
+                       if(dis1<dis2):
+                           rating= rating_ceil
+                       else:
+                           rating = rating_middle
+                   
                    
                one_csv_line = []
                one_csv_line.append(city_title)
                for key,value in dict.items():
                    one_csv_line.append(',')
-                   one_csv_line.append(value)
+                   if value=='Yes':
+                       n_value = '1'
+                   else: 
+                       if value=='No':
+                           n_value = '0'
+                   one_csv_line.append(n_value)
                one_csv_line.append(',')
-               one_csv_line.append(rating)
-               #one_csv_line.append('\n')
+               one_csv_line.append(str(rating))
+               one_csv_line.append('\n')
                one_csv_line_str = ''.join(one_csv_line)
                csvfile.write(one_csv_line_str)
                for key,value in dict.items():
