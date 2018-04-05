@@ -79,7 +79,7 @@ def csvCreator():
     
     attributes.close()    
 
-    csvfile = open("csvfile_discrete.csv", "w")
+    csvfile = open("csvfile.csv", "w")
     csvfile.write(csvTitleStr)
     
     line=r.readline()
@@ -102,23 +102,25 @@ def csvCreator():
                    city_title=''.join(city_title)
                    print(city_title,"  completed")
                    rating=float(city_title_full[1])
-                   rating_floor = math.floor(float(rating))
-                   rating_middle = rating_floor + 0.5;
-                   rating_ceil = rating_floor + 1.0;
-                   if(rating<rating_middle):
-                       dis1 = abs(rating_middle-rating)
-                       dis2 = abs(rating-rating_floor)
-                       if(dis1<dis2):
-                           rating= rating_middle
-                       else:
-                           rating = rating_floor
-                   else:
-                       dis1 = abs(rating_ceil-rating)
-                       dis2 = abs(rating-rating_middle)
-                       if(dis1<dis2):
-                           rating= rating_ceil
-                       else:
-                           rating = rating_middle
+# =============================================================================
+#                    rating_floor = math.floor(float(rating))
+#                    rating_middle = rating_floor + 0.5;
+#                    rating_ceil = rating_floor + 1.0;
+#                    if(rating<rating_middle):
+#                        dis1 = abs(rating_middle-rating)
+#                        dis2 = abs(rating-rating_floor)
+#                        if(dis1<dis2):
+#                            rating= rating_middle
+#                        else:
+#                            rating = rating_floor
+#                    else:
+#                        dis1 = abs(rating_ceil-rating)
+#                        dis2 = abs(rating-rating_middle)
+#                        if(dis1<dis2):
+#                            rating= rating_ceil
+#                        else:
+#                            rating = rating_middle
+# =============================================================================
                    
                    
                one_csv_line = []

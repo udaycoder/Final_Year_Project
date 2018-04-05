@@ -4,12 +4,12 @@ import pandas
 #from sklearn.feature_selection import SelectKBest
 from sklearn import linear_model
 import pickle
-from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score,mean_squared_error,confusion_matrix
+from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score,mean_squared_error,confusion_matrix,r2_score
 from sklearn import svm
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.naive_bayes import GaussianNB
 
-tourist=pandas.read_csv("csvfile_discrete.csv")
+tourist=pandas.read_csv("csvfile.csv")
 
 columns = tourist.columns.tolist()  
 
@@ -31,7 +31,7 @@ svm_clf = svm.SVC( kernel='rbf')
 rndf_clf = RandomForestClassifier(max_depth=2, random_state=0)
 gnb = GaussianNB()
 
-svm_clf.fit(trainAttributes,trainTarget)
+lregr.fit(trainAttributes,trainTarget)
 
 # =============================================================================
 # filename = 'MachineLearningModel.pkl'
@@ -52,18 +52,19 @@ print("Actual\tPredicted")
 for x in range(0,len(testTarget)):
     h=testAttributes.iloc[x]
     h=np.array(h).reshape(1,-1)
+    p= int(round(float(lregr.predict(h))))
+    a= int(round(float(testTarget[x])))
 # =============================================================================
-#     p= int(round(float(svm_clf.predict(h))))
-#     a= int(round(float(testTarget[x])))
+#     p= float(rndf.predict(h))
+#     a= float(testTarget[x])
 # =============================================================================
-    p= float(svm_clf.predict(h))
-    a= float(testTarget[x])
     print(a,"\t",p)
 #    Matrix[a-1][p-1] += 1 
     predictedList.append(p)
     actualList.append(a)
     #print(regr.predict(h)," ",testTarget[x])
 
+print("R2 Score ", r2_score(actualList,predictedList))
 print("Accuracy Score: ",accuracy_score(actualList,predictedList))
 print("Mean Squared Error: ",mean_squared_error(actualList,predictedList))
 print("F1_score: ",f1_score(actualList,predictedList,average="macro"))
@@ -74,4 +75,3 @@ print("Recall Score: ",recall_score(actualList,predictedList,average="macro"))
 # for x in Matrix:
 #     print(x)
 # =============================================================================
-#print(regr.score(newtestX,testTarget))
