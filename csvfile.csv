@@ -1,591 +1,591 @@
 City,Mountain,Desert,Waterfall,Beach,River,Workship-place,Climate,Zoo,Park,Travel,Archaelogical-site,Festival,Pollution,Tourist,Cuisine,Safety,Museum,Stadium,Market,Concert,Rating
-Cape Town,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,4.83
-Cairo,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4.71
-Lanzarote,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,4.00
-Mauritius,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,3.84
-Canary Islands,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,4.40
-Johannesburg,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,3.60
-Nairobi,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.57
-Seychelles,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,4.17
-Windhoek,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.00
-Durban,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,4.50
-Addis Ababa,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,3.50
-Madagascar,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,3.50
-Zanzibar,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,4.00
-Accra,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.00
-Maputo,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4.00
-Tanzania,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,4.17
-Kampala,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,4.00
-Malawi,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,3.00
-Lanzarote,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,4.00
-Lesotho,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,3.00
-Toronto,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.71
-Montreal,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.60
-Calgary,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,4.67
-Ottawa,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.8
-Vancouver,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4
-Mexico City,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.5
-Acapulco,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4
-New York City,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.63
-Los Angeles,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,3.86
-Chicago,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.75
-San Francisco,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,4.25
-Seattle,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,4.33
-Detroit,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.00
-Washington  D.C.,No,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,4.57
-Oklahoma City,No,Yes,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,Yes,4.50
-Las Vegas,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4.72
-Buenos Aires,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.00
-Rio de Janerio,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.50
-Santiago,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,4.00
-Valencia  Carabobo,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,4.50
-Ladakh,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,4.53
-Patnitop,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.21
-Gulmarg,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Yes,4.55
-Srinagar,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,4.43
-Leh,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,4.44
-Kashmir,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,4.28
-Jammu,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,4.39
-Zanskar,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,4.5
-Udhampur,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.6
-Anantnag,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,4.5
-Poonch,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Sonamarg,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,3.57
-Baramulla,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,4.00
-Katra  Jammu and Kashmir,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,3.44
-Pahalgam,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.88
-Palampur,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,3.86
-Dalhousie  India,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.09
-Shimla,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,4.10
-Manali  Himachal Pradesh,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,4.35
-Kasol,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.41
-Dharamsala,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,4.19
-Chail  Himachal Pradesh,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.05
-Kufri  India,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,3.14
-Una  Himachal Pradesh,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.25
-Bharmour,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,3.50
-Khajjiar,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.00
-Chamba  Himachal Pradesh,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Yes,4.22
-Sarahan,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,4.00
-Parwanoo,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,4.00
-Mashobra,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.00
-Kalpa  Himachal Pradesh,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,4.50
-Dharamkot  Himachal Pradesh,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,3.00
-Kullu,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,4.45
-Narkanda,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.33
-Solan,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,3.86
-McLeod Ganj,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,4.16
-Kasauli,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,3.75
-Nainital,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,4.36
-Mussoorie,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.25
-Dehradun,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,4.41
-Ranikhet,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,4.19
-Almora,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.36
-Auli,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,3.95
-Badrinath,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,4.27
-Lansdowne  India,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,3.91
-Rishikesh,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,4.28
-Mukteshwar,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,4.67
-Haridwar,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.23
-Munsiari,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.50
-Kausani,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,No,No,4.40
-Kotdwar,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,3.00
-Haldwani,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,3.09
-Shivpuri,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.50
-Chopta,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.50
-Kanatal,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.00
-Munsiari,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.75
-Pithoragarh,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,4.00
-Kedarnath,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,4.33
-Rudrapur,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.00
-Chamoli district,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,3.50
-Kashipur  Uttarakhand,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.00
-Devprayag,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,No,4.50
-Champawat,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,3.50
-Jageshwar,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,4.50
-Dhanaulti,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.80
-Kila Raipur,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,4.50
-Pathankot,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,4.50
-Gurdaspur,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.00
-Barnala,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,3.75
-Hoshiarpur,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,2.17
-Ludhiana,No,No,No,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,3.17
-Jalandhar,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,4.33
-Patiala,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.83
-Chandigarh,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,4.53
-Amritsar,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,4.53
-Karnal,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.5
-Fatehabad  Haryana,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,2.00
-Bilaspur  Chhattisgarh,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,3.00
-Kangra  Himachal Pradesh,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,No,4.13
-Lahaul and Spiti district,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,4.80
-Manesar,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,4.00
-Rohtak,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,4.29
-Kurukshetra,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,3.87
-Narnaul,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,2.33
-Hisar (city),No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,4.00
-Faridabad,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,No,3.71
-Gurgaon,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,No,3.14
-Jaipur,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.36
-Jhalawar,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Bhawani Mandi,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,4.50
-Ramdevra,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.50
-Banswara,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,4.75
-Hanumangarh,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,4.00
-Pali,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.25
-Bundi,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,3.67
-Jhunjhunu,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.33
-Dausa,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,3.00
-Bhilwara,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Sawai Madhopur,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,3.00
-Sirohi,No,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Barmer  Rajasthan,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,4.33
-Bharatpur  Rajasthan,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,2.75
-Mount Abu,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.83
-Alwar,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,3.36
-Bhangarh,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,3.07
-Pushkar,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,4.16
-Ranakpur,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.63
-Nathdwara,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,4.43
-Udaipur,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.51
-Chittorgarh,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,4.26
-Kota  Rajasthan,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,3.75
-Jodhpur,No,Yes,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.34
-Jaisalmer,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,4.16
-Ajmer,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.17
-Bikaner,No,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,4.20
-Varanasi,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,4.31
-Meerut,No,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,2.00
-Budaun,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,1.25
-Moradabad,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,2.25
-Amroha,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,1.13
-Gajraula,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,2.83
-Ayodhya,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,3.75
-Ghaziabad  Uttar Pradesh,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,2.11
-Kumaon division,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,1.50
-Vrindavan,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.89
-Kanpur,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3.33
-Chaukori,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.00
-Bareilly,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,Yes,Yes,3.67
-Noida,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,2.38
-Fatehpur Sikri,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.33
-Allahabad,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,4.34
-Lucknow,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.11
-Garhwal,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.43
-Sarnath,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,4.50
-Mathura,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,4.07
-Old Delhi,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,4.38
-Agra,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,4.07
-Purnia,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,2.80
-Madhubani district,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,3.33
-Munger,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4
-Muzaffarnagar,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,2.40
-Pawapuri,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.00
-Sitamarhi,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.50
-Bhagalpur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,3.70
-Vaishali (ancient city),No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,4.00
-Sasaram,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,3.75
-Bodh Gaya,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,4.00
-Rajgir,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,4.26
-Patna,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,3.15
-Sydney,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.82
-Auckland,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,3.60
-Brisbane,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.40
-Perth,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.50
-Gold Coast  Queensland,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,4.80
-Queenstown  New Zealand,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.50
-Fiji,Yes,No,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Yes,4.00
-Byron Bay  New South Wales,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,4.50
-Melbourne,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4.67
-Tahiti,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.00
-Rotorua,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.00
-Port Moresby,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,Yes,1.00
-Samoa,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,4.00
-Panaji,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,4.00
-Benaulim,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,4.67
-Arambol,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,4.50
-Anjuna,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,4.27
-Baga  Goa,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,4.19
-Miramar  Goa,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.40
-Colva,No,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,4.39
-Calangute,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,4.46
-Dona Paula,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.22
-Margao,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,4.00
-St. Mary%27s Islands,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.38
-Makalidurga,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Bylakuppe,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.00
-Dandeli,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,4.00
-Badami,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,3.50
-Sigandur,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,No,4.86
-Tumkur,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,3.33
-Belgaum,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,4.29
-Mysore,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,No,Yes,4.10
-Hubli,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,4.00
-Dudhsagar Falls,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.70
-Srirangapatna,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,3.80
-Dharmasthala,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,4.33
-Malpe,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.57
-Murdeshwar,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.19
-Karwar  Karnataka,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,4.38
-Kemmangundi,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,3.72
-Hampi,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.25
-Gokarna  Karnataka,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,3.97
-Kodagu district,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,4.03
-Belur (town),No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.53
-Shravanabelagola,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.71
-Maravanthe,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,2.00
-Mangalore,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,4.21
-Dakshina Kannada#South Canara,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,4.43
-Bijapur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,4.06
-Bangalore,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,3.51
-Shimoga,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,4.55
-Hyderabad,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4.30
-Secunderabad,No,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,2.75
-Bhadrachalam,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.43
-Allagadda,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.33
-Tirumala,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,4.35
-Srikalahasti,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.67
-Gandikota,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,4.33
-Lepakshi,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,4.00
-Amaravati,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,No,4.00
-Chittoor  Andhra Pradesh,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,3.20
-Tenali,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Nellore,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Tirupati,No,No,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,4.31
-Machilipatnam,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,4.50
-Bomdila,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,4.50
-Visakhapatnam,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,4.33
-Nagalapuram,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.67
-Warangal,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,4.30
-Kurnool,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,4.67
-Kadapa,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,4.50
-Rajahmundry,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,4.50
-Munnar,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,4.38
-Kannur,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,1.50
-Kakkadampoyil,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.50
-Kodanad,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.40
-Kalpetta,Yes,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.00
-Thrissur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.11
-Guruvayur,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,4.75
-Thenmala,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,4.25
-Kollam,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,4.00
-Kumarakom,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,4.40
-Athirappilly,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,4.67
-Vagamon,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,3.75
-Aluva,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.50
-Wayanad district,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,4.35
-Alappuzha,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,3.78
-Palakkad,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,3.86
-Sabarimala,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,Yes,4.25
-Thiruvananthapuram,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,4.31
-Thekkady,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.95
-Kozhikode,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,3.33
-Kovalam,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,Yes,No,4.19
-Kollam,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,3.67
-Ernakulam,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.33
-Kochi,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.11
-Kottayam,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,4.50
-Kodaikanal,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,4.10
-Tirunelveli,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,3.25
-Karaikudi,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,3.75
-Valparai,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,4.00
-Thirumayam,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,3.50
-Thoothukudi,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,No,2.67
-Theni,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.67
-Palani,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,3.75
-Tiruchirappalli,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,3.58
-Yercaud,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,3.89
-Kumbakonam,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes,No,4.40
-Courtallam,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,4.20
-Tiruvannamalai,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,4.67
-Yelagiri,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,3.46
-Thanjavur,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.55
-Ooty,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,4.17
-Madurai,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,4.00
-Kanyakumari,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,Yes,4.30
-Kanchipuram,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,4.37
-Chennai,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,3.90
-Coimbatore,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.42
-Coonoor,Yes,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.23
-Rameswaram,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,4.30
-Yercaud,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,3.86
-Pondicherry,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,4.06
-Port Blair,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,4.65
-Havelock Island,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.38
-Agatti Island,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.60
-Lakshadweep,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,3.58
-Silvassa,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,3.67
-Namchi,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,No,4.29
-Ravangla,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.67
-Soreng,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.00
-Lachung,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.75
-Gangtok,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,4.40
-Dibrugarh,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.80
-Tinsukia,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.00
-Digboi,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.50
-Jorhat,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,4.00
-Majuli,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,Yes,4.71
-Guwahati,No,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,No,4.24
-Bhalukpong,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,4.00
-Itanagar,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.00
-Tawang,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.50
-Shillong,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,No,Yes,4.32
-Cherrapunji,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.50
-Mawlynnong,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.50
-Wokha,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.50
-Dimapur,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,4.00
-Kohima,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,3.67
-Ukhrul,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,Yes,4.00
-Imphal,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,4.00
-Aizawl,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.00
-Unakoti,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,4.00
-Agartala,No,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,4.33
-Murshidabad,No,No,No,No,No,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,4.50
-Bagdogra,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,1.00
-Digha,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,3.46
-Gadiara,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.67
-Mukutmanipur,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.00
-Sundarbans,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,4.00
-Haldia,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,1.60
-Raiganj,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,3.50
-Asansol,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,3.57
-Purulia,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,3.80
-Howrah,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,3.30
-Baharampur,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,4.00
-Durgapur,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Krishnanagar  Nadia,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,4.00
-Bakkhali,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.06
-Mandarmani,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,3.25
-Darjeeling,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,4.26
-Kolkata,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,4.17
-Kalimpong,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,3.88
-Rourkela,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,4.00
-Gopalpur  Odisha,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,No,No,Yes,No,3.50
-Kendujhar,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.33
-Phulbani,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,3.20
-Sambalpur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,4.00
-Jeypore,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4.50
-Koraput,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,2.33
-Cuttack,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,3.50
-Bhubaneswar,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.24
-Puri,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4.30
-Angul,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,4.67
-Ghatshila,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.33
-Maluti,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,3.00
-Netarhat,No,No,Yes,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,2.67
-Dumka,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,2.00
-Jamshedpur,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,4.00
-Medininagar,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,Yes,No,3.00
-Dhanbad,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,4.00
-Hazaribagh,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,3.20
-Latehar,No,No,Yes,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,No,No,No,3.00
-Ranchi,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,4.15
-Bastar district,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,3.60
-Jamnagar,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,2.67
-Vadodara,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,3.89
-Dang District  India,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.00
-Gandhinagar,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,4.38
-Mandvi,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,4.33
-Bhuj,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,4.45
-Bhavnagar,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,3.83
-Veraval,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.00
-Rajkot,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,Yes,4.25
-Kutch district,No,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,4.80
-Dwarka,No,No,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,Yes,3.87
-Palitana,Yes,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,4.86
-Udwada,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,4.00
-Saurashtra (region),No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.63
-Gondal  India,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,4.33
-Diu  India,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,4.09
-Junagadh,Yes,No,No,No,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,4.67
-Porbander,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,4.10
-Surat,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,3.83
-Baroda,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,Yes,4.42
-Ahmedabad,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,4.43
-Daman,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.05
-Tikamgarh,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,2.00
-Dewas,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.50
-Multai,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Bhedaghat,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.75
-Singrauli,No,No,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,3.33
-Jhansi,No,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,No,4.25
-Ratlam,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes,No,3.70
-Orchha,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,4.60
-Amarkantak,No,No,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.56
-Chitrakoot  Madhya Pradesh,Yes,No,No,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,4.00
-Sanchi,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,No,No,Yes,4.50
-Datia,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Panchmarhi,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,3.83
-Maheshwar,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,Yes,3.33
-Mandu  Madhya Pradesh,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,3.80
-Bhopal,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,4.37
-Jabalpur,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,3.50
-Indore,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,4.62
-Pachmarhi,Yes,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,Yes,No,4.40
-Gwalior,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.10
-Ujjain,Yes,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,4.29
-Ganpatipule,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,4.32
-Saputara,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.68
-Tuljapur,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.63
-Ahmednagar,No,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,4.22
-Sevagram,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,No,No,3.00
-Palghar,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,1.50
-Kaas Plateau,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,4.25
-Kalyan,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,3.50
-Sawantwadi,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.67
-Ratnagiri,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,4.25
-Dudhani,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes,No,3.00
-Shrivardhan,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,4.50
-Wai  Maharashtra,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,4.80
-Solapur,No,No,No,No,No,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,3.33
-Khed  Ratnagiri,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,4.00
-Amravati,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,4.67
-Malvan,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,4.50
-Kolad,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.00
-Bhivpuri,No,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,3.57
-Nashik,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,4.12
-Shani Shingnapur,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,No,Yes,No,2.22
-Magarpatta,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,3.50
-Lavasa,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,3.09
-Amboli  Sindhudurg,No,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.17
-Aamby Valley City,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,2.95
-Diveagar,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,4.05
-Kamshet,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,3.83
-Aurangabad  Maharashtra,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,No,No,4.32
-Tarkarli,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.11
-Tuljapur,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.63
-Satara (city),Yes,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.73
-Pandharpur,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,3.71
-Ganpatipule,No,No,No,Yes,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,Yes,No,No,No,4.32
-Bhandardhara,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.33
-Kolhapur,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,4.25
-Saputara,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,3.68
-Navi Mumbai,No,No,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,No,Yes,No,4.23
-Panchgani,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Yes,3.89
-Shirdi,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.49
-Nagpur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,4.15
-Mahabaleshwar,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,4.19
-Khandala,No,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.28
-Lonavla,Yes,No,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,4.24
-Kihim,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,3.89
-Dahanu,No,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,4.14
-Bassein,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.50
-Alibag,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3.85
-Mumbai,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.21
-Dhaka,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.33
-Chittagong,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,3.50
-Zhejiang,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,3.50
-Yunnan,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,4
-Macau,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.20
-Guilin,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,4
-Shanghai,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,4.29
-Beijing,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.32
-Hong kong,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,4.11
-Bali,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,No,No,No,Yes,4.26
-Java,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,Yes,4.5
-Jakarta,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.2
-Hiroshima,No,No,No,No,Yes,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,No,No,4
-Tokyo,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.57
-Almaty,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,3
-Pulau Ketam,No,No,No,No,Yes,No,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.33
-Putrajaya,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,3.5
-Penang,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4
-Kuala Lumpur,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4.45
-Langkawi,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,Yes,4.43
-Miri  Malaysia,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4
-Kuala Kangsar District,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.5
-Tioman Island,No,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,4.75
-Kuantan,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,4
-Shah Alam,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4
-Johor Bahru,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4
-Batu Gajah,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,4
-Port Dickson,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,3.50
-Male,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,4.5
-Pokhara,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.69
-Lalitpur  Nepal,No,No,No,No,Yes,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,3.5
-Kathmandu,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.25
-Bhaktapur,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,Yes,4
-Rawalpindi,Yes,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,4
-Quetta,Yes,No,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,4.8
-Peshawar,Yes,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Yes,Yes,Yes,4.25
-Lahore,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Yes,Yes,Yes,4.62
-Karachi,No,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.11
-Islamabad,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,Yes,Yes,Yes,4.74
-Gilgit,Yes,Yes,No,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,4.74
-Manila,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.33
-Boracay,Yes,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,4.33
-Singapore,No,No,No,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,4.26
-Sentosa,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,No,No,Yes,No,Yes,Yes,4.69
-Seoul,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.13
-Bentota,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,3
-Kandy,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,4.67
-Colombo,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.13
-Taichung,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,4
-Taipei,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4
-Ko Samui,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,4
-Chiang Mai,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,4.8
-Phuket City,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,4.33
-Phuket Province,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,No,No,No,Yes,No,4.33
-Pattaya,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,4.25
-Bangkok,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.29
-Ho Chi Minh City,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,3
-Hanoi,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.67
-Vienna,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,3.88
-Salzburg,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,4.86
-Innsbruck,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,No,No,Yes,No,Yes,Yes,Yes,No,No,4.50
-Ypres,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,4.67
-Antwerp,No,No,No,No,Yes,Yes,No,No,No,Yes,No,No,Yes,No,No,No,Yes,No,Yes,No,3.75
-Sofia,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,4.50
-Lanzarote,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,4.00
-Canary Islands,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,No,4.40
-Ayia Napa,No,No,No,Yes,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,No,No,Yes,4.00
-Cyprus,Yes,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Yes,4.40
-Prague,Yes,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,4.43
-Copenhagen,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.50
-Cannes,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,4.75
-Paris,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,4.57
-Heidelberg,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,4.00
-Stuttgart,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes,2.20
-Munich,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.67
-Frankfurt,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,3.43
-Dresden,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,Yes,4.50
-Cologne,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,4.00
-Berlin,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.63
-Ireland,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,4.80
-Piedmont,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,4.50
-Verona,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,No,4.50
-Turin,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.00
-Pompeii,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,4.50
-Venice,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,4.52
-Rome,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.84
-Milan,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,4.40
-Florence,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4.67
-Monte Carlo,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.00
-Rotterdam,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,4.00
-Amsterdam,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.39
-Warsaw,No,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4.33
-Bucharest,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.50
-Slovakia,Yes,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,4.50
-Slovenia,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,3.75
-Sevilla,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.50
-Mallorca,Yes,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,4.50
-Madrid,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,4.40
-Ibiza,No,No,No,Yes,No,No,No,No,No,Yes,No,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,4.40
-Barcelona,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4.10
-Stockholm,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,4.00
-Lucerne,Yes,No,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,4.75
-Zurich,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,4.43
-Geneva,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,Yes,4.50
-Newcastle Upon Tyne,No,No,No,No,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.00
-Nottinghamshire,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,3.50
-Filey,No,No,No,Yes,No,Yes,No,No,No,Yes,No,No,No,Yes,No,Yes,No,No,No,No,4.50
-The Isle of Wight,No,No,No,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,4.33
-Bradford,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,4.00
-Cardiff,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,4.00
-Glasgow,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,4.50
-Edinburg  Texas,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,4.80
-Plymouth,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,Yes,Yes,3.75
-Cambridge,No,No,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,4.50
-Oxford,No,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.00
-Manchester,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,Yes,4.33
-London,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,4.40
+Cape Town,1,0,0,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,4.83
+Cairo,0,1,0,0,1,1,1,0,1,0,0,1,1,1,0,0,1,1,1,1,4.71
+Lanzarote,1,1,0,1,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,4.0
+Mauritius,1,0,0,1,1,0,0,0,1,1,0,1,1,1,1,0,0,0,1,1,3.84
+Canary Islands,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0,0,0,0,1,0,4.4
+Johannesburg,0,0,0,0,1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,1,3.6
+Nairobi,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,1,1,1,1,4.57
+Seychelles,1,0,0,1,0,1,0,0,0,1,0,1,0,1,1,1,0,0,1,1,4.17
+Windhoek,1,1,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,4.0
+Durban,1,0,0,1,0,1,0,0,1,1,1,0,0,1,1,1,0,1,1,0,4.5
+Addis Ababa,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,1,1,1,0,3.5
+Madagascar,1,1,0,0,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,3.5
+Zanzibar,0,0,0,1,1,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1,4.0
+Accra,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,4.0
+Maputo,0,0,0,1,1,1,0,0,1,1,0,1,1,1,0,0,1,1,1,1,4.0
+Tanzania,1,0,0,0,1,0,0,0,1,1,1,0,0,1,1,0,0,0,1,0,4.17
+Kampala,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1,0,1,0,4.0
+Malawi,1,0,0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,0,1,1,3.0
+Lanzarote,1,1,0,1,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,4.0
+Lesotho,1,0,0,0,1,0,1,0,1,0,0,1,0,0,1,0,0,0,0,1,3.0
+Toronto,0,0,0,1,1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,4.71
+Montreal,1,0,0,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,4.6
+Calgary,1,0,0,1,1,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1,4.67
+Ottawa,0,0,1,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,4.8
+Vancouver,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,4.0
+Mexico City,1,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,4.5
+Acapulco,1,0,0,1,1,1,0,0,1,1,1,1,0,1,1,0,1,0,1,1,4.0
+New York City,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,4.63
+Los Angeles,1,0,0,1,1,1,1,0,1,1,0,0,1,0,0,1,1,1,1,1,3.86
+Chicago,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,4.75
+San Francisco,1,1,0,1,1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,1,4.25
+Seattle,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,1,4.33
+Detroit,0,0,0,1,1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,4.0
+Washington  D.C.,0,0,0,0,1,1,1,1,1,1,0,1,0,0,0,1,1,1,1,1,4.57
+Oklahoma City,0,1,0,0,1,1,0,1,1,1,0,0,0,0,0,0,1,1,1,1,4.5
+Las Vegas,1,1,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,4.72
+Buenos Aires,0,0,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1,4.0
+Rio de Janerio,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,4.5
+Santiago,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,1,4.0
+Valencia  Carabobo,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,4.5
+Ladakh,1,1,0,0,1,1,1,0,1,1,0,1,0,1,1,0,0,0,0,1,4.53
+Patnitop,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,4.21
+Gulmarg,1,0,0,0,1,1,1,0,1,0,0,1,0,1,0,0,0,0,0,1,4.55
+Srinagar,1,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,4.43
+Leh,1,1,0,0,1,1,1,0,0,1,0,1,0,1,1,0,0,0,0,0,4.44
+Kashmir,1,1,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,4.28
+Jammu,1,0,0,0,1,1,0,0,1,1,1,1,0,0,1,0,1,0,1,0,4.39
+Zanskar,1,1,0,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,4.5
+Udhampur,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,4.6
+Anantnag,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,4.5
+Poonch,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,4.0
+Sonamarg,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,3.57
+Baramulla,1,0,0,0,1,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,4.0
+Katra  Jammu and Kashmir,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,3.44
+Pahalgam,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4.88
+Palampur,1,0,0,0,1,1,1,1,1,1,0,0,0,1,1,0,0,0,1,0,3.86
+Dalhousie  India,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4.09
+Shimla,1,0,0,0,1,1,1,0,1,1,0,1,0,1,0,1,1,0,1,0,4.1
+Manali  Himachal Pradesh,1,0,0,0,1,1,1,0,1,1,0,0,1,1,0,1,0,0,0,0,4.35
+Kasol,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.41
+Dharamsala,1,0,1,0,1,1,1,0,1,1,0,1,0,1,0,0,0,1,1,0,4.19
+Chail  Himachal Pradesh,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.05
+Kufri  India,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,3.14
+Una  Himachal Pradesh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.25
+Bharmour,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3.5
+Khajjiar,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4.0
+Chamba  Himachal Pradesh,1,0,0,0,1,1,1,0,1,1,1,1,0,1,0,0,1,0,1,1,4.22
+Sarahan,1,0,0,0,1,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,4.0
+Parwanoo,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,4.0
+Mashobra,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4.0
+Kalpa  Himachal Pradesh,1,0,0,0,1,1,0,0,0,0,0,1,0,1,1,1,0,0,0,1,4.5
+Dharamkot  Himachal Pradesh,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3.0
+Kullu,1,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,0,0,0,4.45
+Narkanda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.33
+Solan,1,0,0,0,1,1,1,0,1,1,0,1,0,1,1,1,0,0,1,1,3.86
+McLeod Ganj,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,4.16
+Kasauli,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,1,3.75
+Nainital,1,0,0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,1,0,4.36
+Mussoorie,1,0,1,0,1,1,1,0,1,1,0,0,0,1,0,1,0,0,1,0,4.25
+Dehradun,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,4.41
+Ranikhet,1,0,0,0,1,1,1,0,1,1,0,1,0,1,0,1,1,1,0,0,4.19
+Almora,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,4.36
+Auli,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,3.95
+Badrinath,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.27
+Lansdowne  India,0,1,0,0,1,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,3.91
+Rishikesh,1,0,0,1,1,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,4.28
+Mukteshwar,0,0,0,0,0,1,1,0,1,1,0,0,0,1,0,1,1,0,0,0,4.67
+Haridwar,1,0,0,0,1,1,0,0,1,1,1,1,0,1,1,0,1,0,1,1,4.23
+Munsiari,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3.5
+Kausani,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1,0,0,0,4.4
+Kotdwar,0,0,0,0,1,1,1,0,1,1,1,0,0,1,0,1,0,0,1,0,3.0
+Haldwani,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1,1,3.09
+Shivpuri,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,4.5
+Chopta,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,4.5
+Kanatal,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,4.0
+Munsiari,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3.75
+Pithoragarh,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,4.0
+Kedarnath,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,4.33
+Rudrapur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.0
+Chamoli district,1,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,3.5
+Kashipur  Uttarakhand,0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,3.0
+Devprayag,1,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,0,0,1,0,4.5
+Champawat,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,3.5
+Jageshwar,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,4.5
+Dhanaulti,1,0,0,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,3.8
+Kila Raipur,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.5
+Pathankot,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,4.5
+Gurdaspur,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.0
+Barnala,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3.75
+Hoshiarpur,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,2.17
+Ludhiana,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,1,0,1,1,0,3.17
+Jalandhar,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,1,0,1,1,0,4.33
+Patiala,0,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1,1,1,1,1,4.83
+Chandigarh,0,0,0,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,4.53
+Amritsar,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,4.53
+Karnal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.5
+Fatehabad  Haryana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2.0
+Bilaspur  Chhattisgarh,0,1,0,0,1,1,0,0,1,1,0,1,1,1,1,1,0,0,1,1,3.0
+Kangra  Himachal Pradesh,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,1,0,0,0,4.13
+Lahaul and Spiti district,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1,1,0,0,0,1,4.8
+Manesar,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,0,1,1,4.0
+Rohtak,0,1,0,0,1,1,0,1,1,1,0,1,0,1,0,1,1,1,1,0,4.29
+Kurukshetra,0,1,0,0,1,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,3.87
+Narnaul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2.33
+Hisar (city),0,1,0,0,1,1,0,0,1,1,1,1,0,1,0,1,1,1,0,1,4.0
+Faridabad,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,3.71
+Gurgaon,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,3.14
+Jaipur,0,1,0,0,1,1,0,1,1,1,0,1,0,1,0,1,1,1,1,1,4.36
+Jhalawar,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.0
+Bhawani Mandi,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,1,4.5
+Ramdevra,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.5
+Banswara,1,1,0,0,1,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,4.75
+Hanumangarh,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0,4.0
+Pali,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.25
+Bundi,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,3.67
+Jhunjhunu,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4.33
+Dausa,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,3.0
+Bhilwara,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.0
+Sawai Madhopur,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,1,0,1,1,3.0
+Sirohi,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.0
+Barmer  Rajasthan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.33
+Bharatpur  Rajasthan,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,1,0,2.75
+Mount Abu,1,1,1,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,3.83
+Alwar,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,1,1,0,1,0,3.36
+Bhangarh,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,3.07
+Pushkar,1,0,0,0,1,1,0,0,0,1,0,1,0,1,0,1,0,0,1,1,4.16
+Ranakpur,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.63
+Nathdwara,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,4.43
+Udaipur,1,1,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,4.51
+Chittorgarh,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,0,0,0,1,4.26
+Kota  Rajasthan,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1,1,1,0,3.75
+Jodhpur,0,1,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,4.34
+Jaisalmer,0,1,0,0,1,1,0,0,0,1,0,1,0,1,0,1,0,0,0,1,4.16
+Ajmer,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.17
+Bikaner,0,1,0,0,0,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,4.2
+Varanasi,0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,0,1,4.31
+Meerut,0,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,0,1,1,1,2.0
+Budaun,0,0,0,0,1,1,0,0,0,1,0,0,1,1,0,1,1,0,1,0,1.25
+Moradabad,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,1,0,2.25
+Amroha,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1.13
+Gajraula,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2.83
+Ayodhya,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,3.75
+Ghaziabad  Uttar Pradesh,0,0,0,0,1,0,1,0,1,1,0,0,0,0,1,1,0,0,1,0,2.11
+Kumaon division,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.5
+Vrindavan,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.89
+Kanpur,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3.33
+Chaukori,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.0
+Bareilly,1,0,0,0,1,1,0,0,1,1,1,0,0,0,1,0,0,1,1,1,3.67
+Noida,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,2.38
+Fatehpur Sikri,0,0,0,0,1,1,0,0,1,1,1,0,0,1,0,1,0,0,0,0,3.33
+Allahabad,0,0,0,0,1,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,4.34
+Lucknow,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,4.11
+Garhwal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.43
+Sarnath,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,4.5
+Mathura,0,0,0,0,1,1,0,0,1,1,1,1,0,0,0,0,1,0,0,1,4.07
+Old Delhi,0,0,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,4.38
+Agra,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,1,1,0,1,0,4.07
+Purnia,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0,1,0,1,1,0,2.8
+Madhubani district,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,3.33
+Munger,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.0
+Muzaffarnagar,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0,2.4
+Pawapuri,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.0
+Sitamarhi,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,4.5
+Bhagalpur,0,0,0,0,1,1,0,0,1,1,1,0,1,0,1,0,0,0,0,0,3.7
+Vaishali (ancient city),0,0,0,0,1,1,0,0,1,0,1,0,0,0,1,1,1,0,0,1,4.0
+Sasaram,0,0,1,0,1,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,3.75
+Bodh Gaya,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,4.0
+Rajgir,1,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,1,0,0,4.26
+Patna,0,0,0,0,1,1,1,0,1,1,0,1,1,1,1,0,1,1,0,1,3.15
+Sydney,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,4.82
+Auckland,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,3.6
+Brisbane,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,4.4
+Perth,0,0,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,4.5
+Gold Coast  Queensland,1,0,0,1,1,0,0,0,1,1,0,1,0,1,1,1,0,1,1,1,4.8
+Queenstown  New Zealand,1,0,0,1,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,0,3.5
+Fiji,1,0,0,1,0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,1,4.0
+Byron Bay  New South Wales,0,0,0,1,1,0,0,0,1,1,0,1,0,1,0,1,0,0,1,1,4.5
+Melbourne,1,0,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,4.67
+Tahiti,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,0,1,0,1,1,4.0
+Rotorua,1,0,0,0,1,0,1,0,1,1,0,0,0,1,0,1,1,0,0,0,4.0
+Port Moresby,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,1,1.0
+Samoa,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,0,1,1,4.0
+Panaji,0,0,0,1,1,1,0,0,1,1,0,1,0,1,0,1,0,1,1,0,4.0
+Benaulim,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,4.67
+Arambol,0,0,0,1,1,1,0,0,0,1,0,1,0,1,0,1,0,1,1,1,4.5
+Anjuna,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,4.27
+Baga  Goa,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,4.19
+Miramar  Goa,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3.4
+Colva,0,0,0,1,1,1,1,0,0,1,0,1,0,1,1,1,0,0,1,0,4.39
+Calangute,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,4.46
+Dona Paula,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4.22
+Margao,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,0,4.0
+St. Mary%27s Islands,0,0,0,1,0,1,0,0,1,1,0,0,0,1,0,1,0,0,1,0,4.38
+Makalidurga,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,4.0
+Bylakuppe,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.0
+Dandeli,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,1,0,0,1,0,4.0
+Badami,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,3.5
+Sigandur,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,4.86
+Tumkur,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,3.33
+Belgaum,1,0,1,0,1,1,0,0,1,1,0,0,0,1,1,1,0,0,1,0,4.29
+Mysore,0,0,1,0,1,1,0,1,1,1,0,1,0,1,0,0,1,0,0,1,4.1
+Hubli,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,1,1,4.0
+Dudhsagar Falls,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,3.7
+Srirangapatna,0,1,1,0,1,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,3.8
+Dharmasthala,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,1,0,0,0,4.33
+Malpe,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3.57
+Murdeshwar,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.19
+Karwar  Karnataka,0,0,0,1,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,4.38
+Kemmangundi,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,3.72
+Hampi,0,0,0,0,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,1,4.25
+Gokarna  Karnataka,1,0,0,1,1,1,0,0,0,1,0,1,0,1,0,1,0,0,1,0,3.97
+Kodagu district,0,0,0,0,1,1,1,0,1,1,0,1,0,1,1,1,0,0,0,1,4.03
+Belur (town),0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4.53
+Shravanabelagola,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.71
+Maravanthe,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,2.0
+Mangalore,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,4.21
+Dakshina Kannada#South Canara,0,0,0,1,1,1,1,0,1,1,0,1,0,0,1,1,0,0,1,1,4.43
+Bijapur,0,0,0,0,1,1,0,0,1,1,1,1,0,1,0,0,1,0,0,0,4.06
+Bangalore,0,0,0,0,1,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1,3.51
+Shimoga,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,1,1,4.55
+Hyderabad,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4.3
+Secunderabad,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,1,0,1,1,0,2.75
+Bhadrachalam,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.43
+Allagadda,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.33
+Tirumala,0,0,1,0,1,1,0,0,0,1,0,1,0,0,1,1,1,0,0,0,4.35
+Srikalahasti,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,4.67
+Gandikota,0,0,1,0,1,1,0,0,1,1,0,1,0,1,0,1,0,0,0,0,4.33
+Lepakshi,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,4.0
+Amaravati,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,4.0
+Chittoor  Andhra Pradesh,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,3.2
+Tenali,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,4.0
+Nellore,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.0
+Tirupati,0,0,0,0,1,1,0,1,1,1,1,1,0,1,1,1,1,0,0,1,4.31
+Machilipatnam,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,4.5
+Bomdila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,4.5
+Visakhapatnam,1,0,0,1,1,1,0,0,1,1,1,1,0,1,0,1,1,1,0,1,4.33
+Nagalapuram,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4.67
+Warangal,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,0,0,1,1,4.3
+Kurnool,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,4.67
+Kadapa,0,0,0,0,1,1,0,0,0,1,1,0,0,1,1,1,0,0,1,0,4.5
+Rajahmundry,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,1,1,0,1,1,4.5
+Munnar,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,4.38
+Kannur,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1.5
+Kakkadampoyil,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3.5
+Kodanad,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,3.4
+Kalpetta,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,4.0
+Thrissur,0,0,0,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,4.11
+Guruvayur,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,4.75
+Thenmala,1,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,4.25
+Kollam,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,4.0
+Kumarakom,0,0,1,1,1,1,0,0,1,0,0,0,0,1,0,1,1,0,1,0,4.4
+Athirappilly,0,0,1,0,1,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,4.67
+Vagamon,1,0,1,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,3.75
+Aluva,0,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,0,0,0,3.5
+Wayanad district,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,4.35
+Alappuzha,1,0,0,1,1,1,0,0,0,1,1,1,0,1,1,0,0,1,0,0,3.78
+Palakkad,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,3.86
+Sabarimala,1,0,0,0,1,1,0,0,0,1,0,1,1,0,1,1,0,0,1,1,4.25
+Thiruvananthapuram,0,0,0,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,4.31
+Thekkady,1,0,1,0,1,1,0,0,1,1,0,1,0,1,0,1,0,0,0,0,3.95
+Kozhikode,1,0,0,1,1,1,1,0,1,1,0,1,0,0,1,1,0,0,1,1,3.33
+Kovalam,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,4.19
+Kollam,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,0,3.67
+Ernakulam,0,0,0,1,0,1,0,0,1,1,0,0,0,1,0,1,0,0,1,0,4.33
+Kochi,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,0,4.11
+Kottayam,0,0,0,0,1,1,0,0,0,1,0,1,0,0,1,1,0,1,0,1,4.5
+Kodaikanal,1,0,1,0,1,1,0,0,1,1,0,0,1,1,0,1,1,0,1,1,4.1
+Tirunelveli,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,1,1,1,1,1,3.25
+Karaikudi,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,1,0,1,0,3.75
+Valparai,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,4.0
+Thirumayam,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,1,3.5
+Thoothukudi,0,0,0,1,1,1,0,0,1,1,0,1,0,0,1,1,0,1,0,0,2.67
+Theni,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,4.67
+Palani,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,3.75
+Tiruchirappalli,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,3.58
+Yercaud,0,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,0,0,0,0,3.89
+Kumbakonam,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,1,0,4.4
+Courtallam,1,0,1,0,1,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,4.2
+Tiruvannamalai,1,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,0,1,0,4.67
+Yelagiri,1,0,1,0,1,1,0,0,1,0,0,1,0,1,0,1,0,0,0,1,3.46
+Thanjavur,1,0,0,0,1,1,0,1,1,1,0,1,0,1,1,0,1,0,1,1,4.55
+Ooty,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,4.17
+Madurai,1,0,0,0,1,1,0,0,1,1,1,1,0,1,0,1,1,1,1,1,4.0
+Kanyakumari,1,0,0,1,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,1,4.3
+Kanchipuram,0,0,0,0,1,1,0,0,1,1,1,1,0,0,1,0,0,0,1,0,4.37
+Chennai,0,0,0,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,3.9
+Coimbatore,1,0,0,0,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,4.42
+Coonoor,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,4.23
+Rameswaram,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,4.3
+Yercaud,0,0,1,0,1,1,0,0,1,1,0,1,0,1,1,1,0,0,0,0,3.86
+Pondicherry,0,0,0,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,4.06
+Port Blair,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,4.65
+Havelock Island,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.38
+Agatti Island,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.6
+Lakshadweep,1,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,0,0,0,1,3.58
+Silvassa,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,3.67
+Namchi,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,1,1,0,4.29
+Ravangla,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,4.67
+Soreng,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.0
+Lachung,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,3.75
+Gangtok,1,0,0,0,1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,4.4
+Dibrugarh,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,3.8
+Tinsukia,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,1,0,4.0
+Digboi,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4.5
+Jorhat,0,0,0,0,1,1,0,0,1,1,0,0,1,0,1,1,1,1,1,0,4.0
+Majuli,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,4.71
+Guwahati,0,0,0,0,1,1,0,1,0,1,1,0,0,1,0,1,0,1,1,0,4.24
+Bhalukpong,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,4.0
+Itanagar,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,3.0
+Tawang,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,4.5
+Shillong,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,4.32
+Cherrapunji,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4.5
+Mawlynnong,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.5
+Wokha,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,3.5
+Dimapur,0,0,1,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,1,0,4.0
+Kohima,1,0,0,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,0,1,3.67
+Ukhrul,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,4.0
+Imphal,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,1,1,1,1,0,4.0
+Aizawl,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4.0
+Unakoti,1,0,1,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0,0,0,4.0
+Agartala,0,0,0,0,1,1,1,0,0,1,1,1,0,0,1,1,0,1,1,1,4.33
+Murshidabad,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,4.5
+Bagdogra,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,1,0,0,1,0,1.0
+Digha,0,0,0,1,0,1,0,0,1,1,0,1,0,1,0,1,1,0,0,0,3.46
+Gadiara,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4.67
+Mukutmanipur,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,3.0
+Sundarbans,0,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,4.0
+Haldia,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1.6
+Raiganj,0,0,0,0,1,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,3.5
+Asansol,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,3.57
+Purulia,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,3.8
+Howrah,0,0,0,0,1,1,0,0,1,1,0,0,1,1,0,1,0,0,1,0,3.3
+Baharampur,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,0,1,1,4.0
+Durgapur,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.0
+Krishnanagar  Nadia,0,0,0,0,1,1,0,0,0,1,0,0,0,1,1,1,0,0,1,0,4.0
+Bakkhali,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.06
+Mandarmani,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,3.25
+Darjeeling,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,4.26
+Kolkata,1,0,0,0,1,0,0,0,1,1,1,1,1,0,1,0,1,1,1,1,4.17
+Kalimpong,1,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,0,1,0,3.88
+Rourkela,0,0,0,0,1,0,1,0,1,1,0,0,0,1,1,1,0,1,1,1,4.0
+Gopalpur  Odisha,0,1,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0,1,0,3.5
+Kendujhar,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,4.33
+Phulbani,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,3.2
+Sambalpur,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,0,1,1,4.0
+Jeypore,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,0,1,1,4.5
+Koraput,1,0,1,0,1,1,0,0,0,1,0,1,0,1,0,1,0,0,1,0,2.33
+Cuttack,0,0,0,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,3.5
+Bhubaneswar,1,0,0,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,4.24
+Puri,1,0,0,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,4.3
+Angul,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1,4.67
+Ghatshila,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,3.33
+Maluti,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3.0
+Netarhat,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2.67
+Dumka,1,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1,0,0,1,0,2.0
+Jamshedpur,1,0,0,0,1,1,1,0,1,1,0,0,0,1,0,1,0,1,1,0,4.0
+Medininagar,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,1,0,0,1,0,3.0
+Dhanbad,0,0,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,1,0,0,4.0
+Hazaribagh,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,3.2
+Latehar,0,0,1,0,1,1,0,0,1,0,0,1,0,1,1,1,0,0,0,0,3.0
+Ranchi,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,4.15
+Bastar district,0,0,1,0,0,0,0,0,0,1,0,1,0,1,1,1,0,0,1,0,3.6
+Jamnagar,0,0,0,1,1,1,0,0,1,1,0,0,0,1,1,0,1,0,1,1,2.67
+Vadodara,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,1,1,3.89
+Dang District  India,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,4.0
+Gandhinagar,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,4.38
+Mandvi,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,4.33
+Bhuj,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,1,1,0,1,0,4.45
+Bhavnagar,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,3.83
+Veraval,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0,0,0,4.0
+Rajkot,0,0,0,0,1,1,0,0,1,1,0,1,0,0,0,1,1,1,1,1,4.25
+Kutch district,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,1,1,0,1,0,4.8
+Dwarka,0,0,0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,3.87
+Palitana,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,4.86
+Udwada,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,4.0
+Saurashtra (region),0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.63
+Gondal  India,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,1,0,1,0,4.33
+Diu  India,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,4.09
+Junagadh,1,0,0,0,1,1,0,1,1,0,0,1,1,1,0,1,1,0,0,0,4.67
+Porbander,0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,1,0,0,0,0,4.1
+Surat,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.83
+Baroda,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,1,1,1,4.42
+Ahmedabad,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1,1,1,1,4.43
+Daman,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.05
+Tikamgarh,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,2.0
+Dewas,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.5
+Multai,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.0
+Bhedaghat,1,0,1,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,3.75
+Singrauli,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,3.33
+Jhansi,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,1,1,1,1,0,4.25
+Ratlam,0,0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0,3.7
+Orchha,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,1,4.6
+Amarkantak,0,0,0,0,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,4.56
+Chitrakoot  Madhya Pradesh,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4.0
+Sanchi,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,4.5
+Datia,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,4.0
+Panchmarhi,1,0,1,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,3.83
+Maheshwar,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,3.33
+Mandu  Madhya Pradesh,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3.8
+Bhopal,1,0,0,0,1,1,0,0,1,1,1,1,0,0,0,1,1,1,0,0,4.37
+Jabalpur,1,0,1,0,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,3.5
+Indore,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1,4.62
+Pachmarhi,1,0,1,0,1,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,4.4
+Gwalior,0,1,0,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,4.1
+Ujjain,1,0,0,0,1,1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,4.29
+Ganpatipule,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,4.32
+Saputara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.68
+Tuljapur,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,4.63
+Ahmednagar,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,4.22
+Sevagram,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,3.0
+Palghar,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1.5
+Kaas Plateau,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4.25
+Kalyan,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,3.5
+Sawantwadi,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4.67
+Ratnagiri,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4.25
+Dudhani,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3.0
+Shrivardhan,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,4.5
+Wai  Maharashtra,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,4.8
+Solapur,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,1,1,1,1,0,3.33
+Khed  Ratnagiri,1,0,0,0,1,1,1,0,0,1,0,1,0,0,1,1,0,0,0,0,4.0
+Amravati,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1,1,0,4.67
+Malvan,0,0,0,1,1,0,0,0,1,1,0,1,0,1,1,1,0,0,0,0,4.5
+Kolad,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,4.0
+Bhivpuri,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,3.57
+Nashik,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,4.12
+Shani Shingnapur,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,2.22
+Magarpatta,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,3.5
+Lavasa,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,3.09
+Amboli  Sindhudurg,0,0,1,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4.17
+Aamby Valley City,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2.95
+Diveagar,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.05
+Kamshet,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,3.83
+Aurangabad  Maharashtra,0,0,0,0,1,0,0,0,1,1,0,0,0,1,1,1,0,1,0,0,4.32
+Tarkarli,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4.11
+Tuljapur,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,4.63
+Satara (city),1,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4.73
+Pandharpur,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,3.71
+Ganpatipule,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,4.32
+Bhandardhara,1,0,1,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,4.33
+Kolhapur,1,0,0,0,1,1,0,0,0,1,0,1,1,0,1,1,0,1,1,1,4.25
+Saputara,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3.68
+Navi Mumbai,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,1,1,0,4.23
+Panchgani,1,0,0,0,1,1,0,0,1,0,0,1,0,1,0,1,0,0,0,1,3.89
+Shirdi,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,4.49
+Nagpur,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,4.15
+Mahabaleshwar,1,0,1,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,4.19
+Khandala,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4.28
+Lonavla,1,0,1,0,1,1,0,0,1,1,0,0,0,1,1,1,0,0,0,0,4.24
+Kihim,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,3.89
+Dahanu,0,0,0,1,0,1,0,0,1,1,0,0,1,1,1,1,0,0,0,1,4.14
+Bassein,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.5
+Alibag,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,3.85
+Mumbai,0,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,4.21
+Dhaka,0,0,0,0,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,4.33
+Chittagong,1,0,1,1,1,1,0,0,1,1,0,1,0,0,1,0,1,1,1,1,3.5
+Zhejiang,1,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,3.5
+Yunnan,1,0,0,0,1,1,0,0,1,1,1,1,0,1,1,0,1,0,1,0,4.0
+Macau,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,1,1,4.2
+Guilin,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,4.0
+Shanghai,0,0,0,0,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,4.29
+Beijing,1,1,0,0,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,4.32
+Hong kong,1,0,0,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,4.11
+Bali,1,0,0,1,1,1,0,1,1,1,0,1,0,1,1,0,0,0,0,1,4.26
+Java,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,4.5
+Jakarta,0,0,0,0,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,1,4.2
+Hiroshima,0,0,0,0,1,1,0,0,1,1,0,1,0,1,0,0,1,1,0,0,4.0
+Tokyo,1,0,0,0,1,0,1,1,1,1,0,1,0,1,1,0,1,1,1,1,4.57
+Almaty,1,0,0,0,1,0,1,1,1,1,1,0,0,1,1,0,1,1,0,1,3.0
+Pulau Ketam,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4.33
+Putrajaya,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,1,0,3.5
+Penang,0,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,4.0
+Kuala Lumpur,1,0,0,1,1,1,0,0,1,1,0,1,1,1,0,0,1,1,1,1,4.45
+Langkawi,1,0,1,1,1,0,0,0,1,1,0,0,0,1,0,0,1,0,0,1,4.43
+Miri  Malaysia,0,0,0,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,1,4.0
+Kuala Kangsar District,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.5
+Tioman Island,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0,4.75
+Kuantan,1,0,1,1,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,0,4.0
+Shah Alam,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,1,1,1,1,1,4.0
+Johor Bahru,0,0,0,0,0,1,0,1,1,1,0,0,0,1,1,1,1,1,1,0,4.0
+Batu Gajah,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,1,0,0,0,4.0
+Port Dickson,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,3.5
+Male,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4.5
+Pokhara,1,0,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,4.69
+Lalitpur  Nepal,0,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1,1,0,0,0,3.5
+Kathmandu,1,0,0,0,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,4.25
+Bhaktapur,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,4.0
+Rawalpindi,1,1,0,0,1,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,4.0
+Quetta,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,4.8
+Peshawar,1,0,0,0,1,1,0,0,1,1,0,1,0,0,1,0,1,1,1,1,4.25
+Lahore,0,0,0,0,1,1,0,0,1,1,1,1,0,1,0,0,1,1,1,1,4.62
+Karachi,0,0,0,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,4.11
+Islamabad,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,1,1,1,1,4.74
+Gilgit,1,1,0,0,1,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0,4.74
+Manila,0,1,0,0,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,4.33
+Boracay,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,4.33
+Singapore,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,1,0,4.26
+Sentosa,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,1,1,4.69
+Seoul,1,0,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,4.13
+Bentota,0,0,0,1,1,1,0,0,1,1,0,0,0,1,0,1,0,0,0,0,3.0
+Kandy,1,1,0,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,0,4.67
+Colombo,0,0,0,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,4.13
+Taichung,1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,1,1,1,1,0,4.0
+Taipei,1,0,0,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,4.0
+Ko Samui,1,0,1,1,0,1,0,0,1,1,0,0,0,1,1,1,0,0,1,0,4.0
+Chiang Mai,1,0,0,0,1,1,0,0,1,1,0,1,1,1,1,1,0,0,1,0,4.8
+Phuket City,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,4.33
+Phuket Province,1,0,1,1,1,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,4.33
+Pattaya,1,0,0,1,1,1,0,1,1,1,0,0,0,1,1,1,1,0,1,0,4.25
+Bangkok,1,0,0,0,1,1,0,0,1,1,0,1,1,1,1,0,1,1,1,1,4.29
+Ho Chi Minh City,0,0,0,1,1,1,0,1,1,1,0,0,1,1,0,1,1,1,1,1,3.0
+Hanoi,1,0,0,0,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,4.67
+Vienna,0,0,0,0,1,1,0,1,1,1,0,1,0,1,1,0,1,1,1,1,3.88
+Salzburg,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,0,1,1,1,4.86
+Innsbruck,1,0,0,0,1,1,0,0,1,1,0,0,0,1,0,1,1,1,0,0,4.5
+Ypres,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1,0,1,0,4.67
+Antwerp,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,0,1,0,3.75
+Sofia,1,0,0,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,4.5
+Lanzarote,1,1,0,1,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,4.0
+Canary Islands,1,1,0,1,0,1,0,0,1,1,0,1,0,1,0,0,0,0,1,0,4.4
+Ayia Napa,0,0,0,1,0,0,0,0,1,0,1,1,0,1,0,1,1,0,0,1,4.0
+Cyprus,1,0,0,0,1,1,0,0,0,1,1,1,0,1,1,0,0,1,1,1,4.4
+Prague,1,0,0,0,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,1,4.43
+Copenhagen,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,4.5
+Cannes,0,0,0,1,1,1,0,0,1,1,0,1,0,1,0,1,1,0,0,0,4.75
+Paris,0,1,0,1,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,1,4.57
+Heidelberg,1,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1,1,0,1,1,4.0
+Stuttgart,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,2.2
+Munich,0,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,4.67
+Frankfurt,1,0,0,0,1,1,0,0,1,1,1,0,0,1,1,0,1,1,1,1,3.43
+Dresden,1,0,0,0,1,1,0,1,1,1,0,1,0,0,1,0,1,1,1,1,4.5
+Cologne,0,0,0,0,1,1,0,1,1,1,0,1,0,0,0,0,1,1,1,1,4.0
+Berlin,0,0,0,1,1,1,1,1,1,1,0,1,0,1,1,0,1,0,1,1,4.63
+Ireland,1,0,0,1,1,1,0,0,1,0,1,0,0,1,1,0,0,1,1,1,4.8
+Piedmont,1,0,0,0,1,0,1,0,1,1,0,0,0,1,1,1,0,0,0,0,4.5
+Verona,0,1,0,0,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,4.5
+Turin,1,0,0,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,4.0
+Pompeii,0,0,0,0,1,1,0,0,1,0,1,1,0,1,1,0,1,0,1,1,4.5
+Venice,0,0,0,1,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,1,4.52
+Rome,0,0,0,0,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,4.84
+Milan,1,0,0,0,1,1,0,0,1,1,1,1,1,0,1,0,1,1,1,1,4.4
+Florence,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,4.67
+Monte Carlo,0,0,0,1,0,1,0,0,1,1,0,0,0,1,0,1,1,0,0,0,4.0
+Rotterdam,0,1,0,1,1,1,0,1,0,1,0,1,0,0,0,0,1,1,1,1,4.0
+Amsterdam,1,0,0,1,1,1,0,1,1,1,0,1,0,1,1,0,1,1,1,1,4.39
+Warsaw,1,0,0,1,1,1,0,1,1,1,0,1,0,1,0,0,1,1,1,1,4.33
+Bucharest,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,4.5
+Slovakia,1,0,0,0,1,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,4.5
+Slovenia,1,0,0,0,1,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,3.75
+Sevilla,0,0,0,0,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,4.5
+Mallorca,1,0,0,1,1,1,0,0,0,1,0,1,0,1,1,1,0,0,1,0,4.5
+Madrid,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,4.4
+Ibiza,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,0,1,1,4.4
+Barcelona,1,0,0,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,4.1
+Stockholm,0,0,0,0,1,1,1,1,1,1,0,0,1,1,0,0,1,1,1,1,4.0
+Lucerne,1,0,0,1,1,1,0,0,1,1,0,1,1,1,0,1,1,0,0,1,4.75
+Zurich,0,0,0,0,1,1,0,0,1,1,0,1,0,0,1,1,1,1,1,1,4.43
+Geneva,1,0,0,1,1,1,1,0,1,1,0,1,0,0,0,1,1,0,1,1,4.5
+Newcastle Upon Tyne,0,0,0,0,1,1,0,0,1,1,0,1,0,1,1,0,1,1,1,1,4.0
+Nottinghamshire,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0,3.5
+Filey,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,4.5
+The Isle of Wight,0,0,0,1,1,0,0,0,1,1,0,1,0,1,0,1,1,0,1,1,4.33
+Bradford,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,4.0
+Cardiff,0,0,0,0,1,1,0,0,1,1,1,1,0,1,0,0,1,1,1,1,4.0
+Glasgow,0,0,0,0,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,4.5
+Edinburg  Texas,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,4.8
+Plymouth,0,0,0,1,1,1,1,0,1,1,0,1,0,0,0,0,1,0,1,1,3.75
+Cambridge,0,0,0,0,1,1,1,0,1,1,1,1,0,0,0,0,1,1,1,1,4.5
+Oxford,0,0,0,0,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,4.0
+Manchester,1,0,0,0,1,1,1,0,1,1,0,1,0,0,0,0,1,1,1,1,4.33
+London,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,4.4

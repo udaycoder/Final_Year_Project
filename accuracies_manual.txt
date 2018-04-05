@@ -1,0 +1,40 @@
+
+SVM - 
+
+Accuracy Score:  0.915254237288
+Mean Squared Error:  0.177966101695
+F1_score:  0.191150442478
+Precision Score:  0.183050847458
+Recall Score:  0.2
+
+
+RANDOM FOREST CLASSIFIER -
+
+Accuracy Score:  0.915254237288
+Mean Squared Error:  0.177966101695
+F1_score:  0.191150442478
+Precision Score:  0.183050847458
+Recall Score:  0.2
+
+
+
+DECISION TREE REGRESSOR - 
+
+r2 score:  -0.00106044538706
+Accuracy Score:  0.796610169492
+Mean Squared Error:  0.271186440678
+F1_score:  0.221698113208
+Precision Score:  0.199152542373
+Recall Score:  0.25
+
+
+LINEAR REGRESSOR - 
+
+r2 score:  -0.0323435843054
+Accuracy Score:  0.78813559322
+Mean Squared Error:  0.279661016949
+F1_score:  0.220379146919
+Precision Score:  0.198717948718
+Recall Score:  0.247340425532
+
+
