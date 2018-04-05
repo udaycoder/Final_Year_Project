@@ -52,10 +52,14 @@ print("Actual\tPredicted")
 for x in range(0,len(testTarget)):
     h=testAttributes.iloc[x]
     h=np.array(h).reshape(1,-1)
-    p= int(round(float(svm_clf.predict(h))))
-    a= int(round(float(testTarget[x])))
+# =============================================================================
+#     p= int(round(float(svm_clf.predict(h))))
+#     a= int(round(float(testTarget[x])))
+# =============================================================================
+    p= float(svm_clf.predict(h))
+    a= float(testTarget[x])
     print(a,"\t",p)
-    Matrix[a-1][p-1] += 1 
+#    Matrix[a-1][p-1] += 1 
     predictedList.append(p)
     actualList.append(a)
     #print(regr.predict(h)," ",testTarget[x])
@@ -65,7 +69,9 @@ print("Mean Squared Error: ",mean_squared_error(actualList,predictedList))
 print("F1_score: ",f1_score(actualList,predictedList,average="macro"))
 print("Precision Score: ",precision_score(actualList,predictedList,average="macro"))
 print("Recall Score: ",recall_score(actualList,predictedList,average="macro"))
-print("Confusion Matrix: ")
-for x in Matrix:
-    print(x)
+# =============================================================================
+# print("Confusion Matrix: ")
+# for x in Matrix:
+#     print(x)
+# =============================================================================
 #print(regr.score(newtestX,testTarget))
