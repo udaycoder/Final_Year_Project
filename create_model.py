@@ -19,10 +19,10 @@ test=  tourist.loc[~tourist.index.isin(train.index)]
 target="Rating"
 columns=[c for c in columns if c not in["Rating","City"]]  
 
-trainAttributes=train[columns].astype('float64').round()
-trainTarget=train[target].astype('float64').round()
-testAttributes=test[columns].astype('float64').round()
-testTarget=test[target].astype('float64').round()
+trainAttributes=train[columns].astype('float64')
+trainTarget=train[target].astype('float64')
+testAttributes=test[columns].astype('float64')
+testTarget=test[target].astype('float64')
 testTarget=list(testTarget)
 
 regr = DecisionTreeRegressor(max_depth=2)
