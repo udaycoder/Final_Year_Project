@@ -8,7 +8,7 @@ from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score
 from sklearn import svm
 from sklearn.ensemble import RandomForestClassifier
 
-tourist=pandas.read_csv("csvfile_discrete.csv")
+tourist=pandas.read_csv("csvfile.csv")
 
 columns = tourist.columns.tolist()
 
@@ -30,7 +30,7 @@ lregr=linear_model.LinearRegression()
 svm_clf = svm.SVC( kernel='rbf')
 rndf_clf = RandomForestClassifier(max_depth=2, random_state=0)
 
-rndf_clf.fit(trainAttributes,trainTarget)
+svm_clf.fit(trainAttributes,trainTarget)
 
 filename = 'MachineLearningModel.pkl'
 pickle.dump(regr, open(filename, 'wb'))
@@ -53,7 +53,7 @@ for x in range(0,len(testTarget)):
 #     p= int(round(float(lregr.predict(h))))
 #     a= int(round(float(testTarget[x])))
 # =============================================================================
-    p= float(rndf_clf.predict(h))
+    p= float(svm_clf.predict(h))
     a= float(testTarget[x])
     print(a,"\t",p)
     #Matrix[a-1][p-1] += 1 
