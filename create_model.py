@@ -19,10 +19,10 @@ columns=[c for c in columns if c not in["Rating","City"]]
 train= tourist.sample(frac=0.8,random_state=1)
 test=  tourist.loc[~tourist.index.isin(train.index)]
 
-trainAttributes=train[columns].astype('float64').round()
-trainTarget=train[target].astype('float64').round()
-testAttributes=test[columns].astype('float64').round()
-testTarget=test[target].astype('float64').round()
+trainAttributes=train[columns].astype('float64')
+trainTarget=train[target].astype('float64')
+testAttributes=test[columns].astype('float64')
+testTarget=test[target].astype('float64')
 testTarget=list(testTarget)
 
 regr = DecisionTreeRegressor(max_depth=2)
@@ -30,7 +30,7 @@ lregr=linear_model.LinearRegression()
 svm_clf = svm.SVC( kernel='rbf')
 rndf_clf = RandomForestClassifier(max_depth=2, random_state=0)
 
-svm_clf.fit(trainAttributes,trainTarget)
+lregr.fit(trainAttributes,trainTarget)
 
 filename = 'MachineLearningModel.pkl'
 pickle.dump(regr, open(filename, 'wb'))
@@ -49,19 +49,19 @@ print("Actual\tPredicted")
 for x in range(0,len(testTarget)):
     h=testAttributes.iloc[x]
     h=np.array(h).reshape(1,-1)
+    p= int(round(float(lregr.predict(h))))
+    a= int(round(float(testTarget[x])))
 # =============================================================================
-#     p= int(round(float(lregr.predict(h))))
-#     a= int(round(float(testTarget[x])))
+#     p= float(regr.predict(h))
+#     a= float(testTarget[x])
 # =============================================================================
-    p= float(svm_clf.predict(h))
-    a= float(testTarget[x])
     print(a,"\t",p)
     #Matrix[a-1][p-1] += 1 
     predictedList.append(p)
     actualList.append(a)
     #print(regr.predict(h)," ",testTarget[x])
 
-#print("r2 score: ",r2_score(actualList,predictedList))
+print("r2 score: ",r2_score(actualList,predictedList))
 print("Accuracy Score: ",accuracy_score(actualList,predictedList))
 print("Mean Squared Error: ",mean_squared_error(actualList,predictedList))
 print("F1_score: ",f1_score(actualList,predictedList,average="macro"))
