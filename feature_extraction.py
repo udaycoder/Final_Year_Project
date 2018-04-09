@@ -122,12 +122,17 @@ attribute_file = open("attributes.txt","w")
 
 for item in sorted_scores:
     if item[0] in words:
-        if item[0]=="city":
+        if item[0]=="city" or item[0]=="built" or item[0]=="include":
             continue
-        print("{0:50} Score: {1}".format(item[0], item[1]))
-        attribute_file.write(item[0])
-        attribute_file.write('\n')
-        count+=1
+        tag = nltk.pos_tag([item[0]])
+        if tag[0][1]=='NN':
+            print("{0:50} Score: {1}".format(item[0], item[1]))
+            attribute_file.write(item[0])
+            attribute_file.write('\n')
+            count+=1
+        else:
+            continue
+        
     if count == top_n:
         break
 

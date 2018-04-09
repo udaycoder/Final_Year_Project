@@ -1,33 +1,33 @@
 SVM - 
 
-Accuracy Score:  0.915254237288
-Mean Squared Error:  0.177966101695
-F1_score:  0.191150442478
-Precision Score:  0.183050847458
-Recall Score:  0.2
+Accuracy Score:  0.796610169492
+Mean Squared Error:  0.271186440678
+F1_score:  0.221698113208
+Precision Score:  0.199152542373
+Recall Score:  0.25
 
 RANDOM FOREST CLASSIFIER - 
 
-Accuracy Score:  0.915254237288
-Mean Squared Error:  0.177966101695
-F1_score:  0.191150442478
-Precision Score:  0.183050847458
-Recall Score:  0.2
+Accuracy Score:  0.796610169492
+Mean Squared Error:  0.271186440678
+F1_score:  0.221698113208
+Precision Score:  0.199152542373
+Recall Score:  0.25
 
 DECISION TREE REGRESSOR - 
 
-R2 Score  -0.0949098621421
-Accuracy Score:  0.771186440678
-Mean Squared Error:  0.296610169492
-F1_score:  0.217703349282
-Precision Score:  0.197826086957
-Recall Score:  0.242021276596
+R2 Score  -0.0636267232238
+Accuracy Score:  0.779661016949
+Mean Squared Error:  0.28813559322
+F1_score:  0.219047619048
+Precision Score:  0.198275862069
+Recall Score:  0.244680851064
 
 LINEAR REGRESSOR -
 
-R2 Score  -0.0949098621421
-Accuracy Score:  0.771186440678
-Mean Squared Error:  0.296610169492
-F1_score:  0.217703349282
-Precision Score:  0.197826086957
-Recall Score:  0.242021276596
+R2 Score  -0.0636267232238
+Accuracy Score:  0.779661016949
+Mean Squared Error:  0.28813559322
+F1_score:  0.219047619048
+Precision Score:  0.198275862069
+Recall Score:  0.244680851064

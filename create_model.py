@@ -19,10 +19,10 @@ test=  tourist.loc[~tourist.index.isin(train.index)]
 target="Rating"
 columns=[c for c in columns if c not in["Rating","City"]]  
 
-trainAttributes=train[columns].astype('float64')
-trainTarget=train[target].astype('float64')
-testAttributes=test[columns].astype('float64')
-testTarget=test[target].astype('float64')
+trainAttributes=train[columns].astype('float64').round()
+trainTarget=train[target].astype('float64').round()
+testAttributes=test[columns].astype('float64').round()
+testTarget=test[target].astype('float64').round()
 testTarget=list(testTarget)
 
 regr = DecisionTreeRegressor(max_depth=2)
@@ -31,7 +31,7 @@ svm_clf = svm.SVC( kernel='rbf')
 rndf_clf = RandomForestClassifier(max_depth=2, random_state=0)
 gnb = GaussianNB()
 
-lregr.fit(trainAttributes,trainTarget)
+svm_clf.fit(trainAttributes,trainTarget)
 
 # =============================================================================
 # filename = 'MachineLearningModel.pkl'
@@ -52,7 +52,7 @@ print("Actual\tPredicted")
 for x in range(0,len(testTarget)):
     h=testAttributes.iloc[x]
     h=np.array(h).reshape(1,-1)
-    p= int(round(float(lregr.predict(h))))
+    p= int(round(float(svm_clf.predict(h))))
     a= int(round(float(testTarget[x])))
 # =============================================================================
 #     p= float(rndf.predict(h))
@@ -64,7 +64,7 @@ for x in range(0,len(testTarget)):
     actualList.append(a)
     #print(regr.predict(h)," ",testTarget[x])
 
-print("R2 Score ", r2_score(actualList,predictedList))
+#print("R2 Score ", r2_score(actualList,predictedList))
 print("Accuracy Score: ",accuracy_score(actualList,predictedList))
 print("Mean Squared Error: ",mean_squared_error(actualList,predictedList))
 print("F1_score: ",f1_score(actualList,predictedList,average="macro"))
