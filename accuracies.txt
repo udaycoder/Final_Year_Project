@@ -31,3 +31,39 @@ Mean Squared Error:  0.28813559322
 F1_score:  0.219047619048
 Precision Score:  0.198275862069
 Recall Score:  0.244680851064
+
+=======================================================================================   FLOOR       ============================================================================================================
+
+SVM - 
+
+Accuracy Score:  0.745762711864
+Mean Squared Error:  0.347457627119
+F1_score:  0.21359223301
+Precision Score:  0.186440677966
+Recall Score:  0.25
+
+RANDOM FOREST -
+
+Accuracy Score:  0.745762711864
+Mean Squared Error:  0.347457627119
+F1_score:  0.21359223301
+Precision Score:  0.186440677966
+Recall Score:  0.25
+
+DECISION TREE REGRESSOR - 
+
+R2 Score  -0.447852760736
+Accuracy Score:  0.703389830508
+Mean Squared Error:  0.389830508475
+F1_score:  0.290421086467
+Precision Score:  0.292562929062
+Recall Score:  0.290584415584
+
+LINEAR REGRESSOR - 
+
+R2 Score  -0.479327820752
+Accuracy Score:  0.627118644068
+Mean Squared Error:  0.398305084746
+F1_score:  0.270833333333
+Precision Score:  0.269243421053
+Recall Score:  0.277191558442
