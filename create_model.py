@@ -9,6 +9,7 @@ from sklearn import svm
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.naive_bayes import GaussianNB
 import math
+import matplotlib.pyplot as plt
 
 tourist=pandas.read_csv("csvfile.csv")
 
@@ -20,10 +21,10 @@ test=  tourist.loc[~tourist.index.isin(train.index)]
 target="Rating"
 columns=[c for c in columns if c not in["Rating","City"]]  
 
-trainAttributes=train[columns].astype('float64').apply(np.floor)
-trainTarget=train[target].astype('float64').apply(np.floor)
-testAttributes=test[columns].astype('float64').apply(np.floor)
-testTarget=test[target].astype('float64').apply(np.floor)
+trainAttributes=train[columns].astype('float64')#.apply(np.floor)
+trainTarget=train[target].astype('float64')#.apply(np.floor)
+testAttributes=test[columns].astype('float64')#.apply(np.floor)
+testTarget=test[target].astype('float64')#.apply(np.floor)
 
 count1=0
 count2=0
@@ -63,7 +64,7 @@ svm_clf = svm.SVC( kernel='rbf')
 rndf_clf = RandomForestClassifier(max_depth=2, random_state=0)
 gnb = GaussianNB()
 
-rndf_clf.fit(trainAttributes,trainTarget)
+regr.fit(trainAttributes,trainTarget)
 
 # =============================================================================
 # filename = 'MachineLearningModel.pkl'
@@ -81,10 +82,13 @@ Matrix = [[0 for x in range(w)] for y in range(h)]
 print()
 print("Actual\tPredicted")
 
+unmodifiedpredictedList = []
+unmodifiedactualList = []
+
 for x in range(0,len(testTarget)):
     h=testAttributes.iloc[x]
     h=np.array(h).reshape(1,-1)
-    p= int(math.floor(float(rndf_clf.predict(h))))
+    p= int(math.floor(float(regr.predict(h))))
     a= int(math.floor(float(testTarget[x])))
 # =============================================================================
 #     p= float(rndf.predict(h))
@@ -94,9 +98,11 @@ for x in range(0,len(testTarget)):
     Matrix[a-1][p-1] += 1 
     predictedList.append(p)
     actualList.append(a)
+    unmodifiedpredictedList.append(regr.predict(h))
+    unmodifiedactualList.append(testTarget[x])
     #print(regr.predict(h)," ",testTarget[x])
 
-#print("R2 Score ", r2_score(actualList,predictedList))
+print("R2 Score ", r2_score(actualList,predictedList))
 print("Accuracy Score: ",accuracy_score(actualList,predictedList))
 print("Mean Squared Error: ",mean_squared_error(actualList,predictedList))
 print("F1_score: ",f1_score(actualList,predictedList,average="macro"))
@@ -113,3 +119,19 @@ print("Number of 2",count2)
 print("Number of 3",count3)
 print("Number of 4",count4)
 print("Number of 5",count5)
+
+length = len(unmodifiedactualList)
+
+for i in range(0,length):
+    if unmodifiedactualList[i]>4 and unmodifiedactualList[i]<=5:
+        plt.scatter(unmodifiedactualList[i],unmodifiedpredictedList[i],color="green")
+    if unmodifiedactualList[i]>3 and unmodifiedactualList[i]<=4:
+        plt.scatter(unmodifiedactualList[i],unmodifiedpredictedList[i],color="blue")
+    if unmodifiedactualList[i]<=3:
+        plt.scatter(unmodifiedactualList[i],unmodifiedpredictedList[i],color="red")
+        
+plt.xlabel("Actual Values")
+plt.ylabel("Predicted Values")
+plt.legend()
+plt.savefig("actualVpredicted_scatterplot.png")
+plt.show()
