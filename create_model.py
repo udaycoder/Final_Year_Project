@@ -10,6 +10,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.naive_bayes import GaussianNB
 import math
 import matplotlib.pyplot as plt
+import seaborn as sn
 
 tourist=pandas.read_csv("csvfile.csv")
 
@@ -41,8 +42,6 @@ for x in trainTarget:
         count3+=1
     if x==4:
         count4+=1
-    if x==5:
-        count5+=1
 
 for x in testTarget:
     if x==1:
@@ -53,8 +52,6 @@ for x in testTarget:
         count3+=1
     if x==4:
         count4+=1
-    if x==5:
-        count5+=1
 
 testTarget=list(testTarget)
 
@@ -76,7 +73,7 @@ count=0;
 predictedList=[]
 actualList=[]
 
-w, h = 5, 5;
+w, h = 4, 4;
 Matrix = [[0 for x in range(w)] for y in range(h)]
 
 print()
@@ -118,7 +115,6 @@ print("Number of 1",count1)
 print("Number of 2",count2)
 print("Number of 3",count3)
 print("Number of 4",count4)
-print("Number of 5",count5)
 
 length = len(unmodifiedactualList)
 
@@ -135,3 +131,11 @@ plt.ylabel("Predicted Values")
 plt.legend()
 plt.savefig("actualVpredicted_scatterplot.png")
 plt.show()
+
+df_cm = pandas.DataFrame(Matrix, index = [i for i in "1234"],
+                  columns = [i for i in "1234"])
+plt.figure(figsize = (10,7))
+conf_heat = sn.heatmap(df_cm, annot=True)
+conf_heat.set_yticklabels(rotation=0,labels= [i for i in "4321"])
+heatfig = conf_heat.get_figure()
+heatfig.savefig("confusionMatrix_heatMap.png")
