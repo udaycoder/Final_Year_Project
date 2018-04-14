@@ -64,8 +64,8 @@ gnb = GaussianNB()
 regr.fit(trainAttributes,trainTarget)
 
 # =============================================================================
-# filename = 'MachineLearningModel.pkl'
-# pickle.dump(regr, open(filename, 'wb'))
+filename = 'MachineLearningModel.pkl'
+pickle.dump(regr, open(filename, 'wb'))
 # =============================================================================
 
 count=0;
@@ -77,7 +77,7 @@ w, h = 4, 4;
 Matrix = [[0 for x in range(w)] for y in range(h)]
 
 print()
-print("Actual\tPredicted")
+print("City\tActual\tPredicted")
 
 unmodifiedpredictedList = []
 unmodifiedactualList = []
@@ -91,8 +91,8 @@ for x in range(0,len(testTarget)):
 #     p= float(rndf.predict(h))
 #     a= float(testTarget[x])
 # =============================================================================
-    print(a,"\t",p)
-    Matrix[a-1][p-1] += 1 
+    print(test['City'].iloc[x],"\t",testTarget[x],"\t",regr.predict(h))
+    Matrix[p-1][a-1] += 1 
     predictedList.append(p)
     actualList.append(a)
     unmodifiedpredictedList.append(regr.predict(h))
@@ -137,5 +137,7 @@ df_cm = pandas.DataFrame(Matrix, index = [i for i in "1234"],
 plt.figure(figsize = (10,7))
 conf_heat = sn.heatmap(df_cm, annot=True)
 conf_heat.set_yticklabels(rotation=0,labels= [i for i in "4321"])
+conf_heat.set_ylabel("Actual values")
+conf_heat.set_xlabel("Predicted values")
 heatfig = conf_heat.get_figure()
 heatfig.savefig("confusionMatrix_heatMap.png")
