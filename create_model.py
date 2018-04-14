@@ -77,7 +77,7 @@ w, h = 4, 4;
 Matrix = [[0 for x in range(w)] for y in range(h)]
 
 print()
-print("City\tActual\tPredicted")
+print("City\t\tActual\t\tPredicted")
 
 unmodifiedpredictedList = []
 unmodifiedactualList = []
