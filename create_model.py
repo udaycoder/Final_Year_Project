@@ -8,6 +8,8 @@ from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score
 from sklearn import svm
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.naive_bayes import GaussianNB
+from sklearn.neural_network import MLPClassifier
+from sklearn.neural_network import MLPRegressor
 import math
 import matplotlib.pyplot as plt
 import seaborn as sn
@@ -22,10 +24,10 @@ test=  tourist.loc[~tourist.index.isin(train.index)]
 target="Rating"
 columns=[c for c in columns if c not in["Rating","City"]]  
 
-trainAttributes=train[columns].astype('float64')#.apply(np.floor)
-trainTarget=train[target].astype('float64')#.apply(np.floor)
-testAttributes=test[columns].astype('float64')#.apply(np.floor)
-testTarget=test[target].astype('float64')#.apply(np.floor)
+trainAttributes=train[columns].astype('float64').apply(np.floor)
+trainTarget=train[target].astype('float64').apply(np.floor)
+testAttributes=test[columns].astype('float64').apply(np.floor)
+testTarget=test[target].astype('float64').apply(np.floor)
 
 count1=0
 count2=0
@@ -60,8 +62,10 @@ lregr=linear_model.LinearRegression()
 svm_clf = svm.SVC( kernel='rbf')
 rndf_clf = RandomForestClassifier(max_depth=2, random_state=0)
 gnb = GaussianNB()
+mlpC = MLPClassifier(hidden_layer_sizes= 4 ) 
+mlpR = MLPRegressor(hidden_layer_sizes= 4 )
 
-regr.fit(trainAttributes,trainTarget)
+mlpC.fit(trainAttributes,trainTarget)
 
 # =============================================================================
 filename = 'MachineLearningModel.pkl'
@@ -85,17 +89,17 @@ unmodifiedactualList = []
 for x in range(0,len(testTarget)):
     h=testAttributes.iloc[x]
     h=np.array(h).reshape(1,-1)
-    p= int(math.floor(float(regr.predict(h))))
+    p= int(math.floor(float(mlpC.predict(h))))
     a= int(math.floor(float(testTarget[x])))
 # =============================================================================
 #     p= float(rndf.predict(h))
 #     a= float(testTarget[x])
 # =============================================================================
-    print(test['City'].iloc[x],"\t",testTarget[x],"\t",regr.predict(h))
+    print(test['City'].iloc[x],"\t",testTarget[x],"\t",mlpC.predict(h))
     Matrix[p-1][a-1] += 1 
     predictedList.append(p)
     actualList.append(a)
-    unmodifiedpredictedList.append(regr.predict(h))
+    unmodifiedpredictedList.append(mlpC.predict(h))
     unmodifiedactualList.append(testTarget[x])
     #print(regr.predict(h)," ",testTarget[x])
 
